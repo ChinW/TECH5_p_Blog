@@ -2,73 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.tech5ve.com/2019/10/19/5-years/</loc>
+    <loc>https://blog.tech5ve.com/2020/10/15/2020Autumn/</loc>
     
-    <lastmod>2019-10-19T08:09:51.391Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.tech5ve.com/2017/10/01/2017Autumn1/</loc>
-    
-    <lastmod>2019-10-19T06:25:50.686Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.tech5ve.com/2018/10/08/2018Autumn/</loc>
-    
-    <lastmod>2019-10-19T06:25:50.686Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.tech5ve.com/2019/10/13/2019Autumn/</loc>
-    
-    <lastmod>2019-10-19T06:25:50.686Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.tech5ve.com/2017/09/15/2017Autumn2/</loc>
-    
-    <lastmod>2019-10-19T06:25:50.686Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.tech5ve.com/2014/02/28/%E5%85%B3%E4%BA%8ETECH-F5VE/</loc>
-    
-    <lastmod>2019-10-19T06:25:50.686Z</lastmod>
+    <lastmod>2020-10-15</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.tech5ve.com/2015/12/05/%E6%B1%9F%E9%9B%AA%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/</loc>
     
-    <lastmod>2019-10-19T06:25:50.686Z</lastmod>
+    <lastmod>2020-10-15</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.tech5ve.com/2016/02/28/%E6%B1%9F%E9%9B%AABBS/</loc>
     
-    <lastmod>2019-10-19T06:25:50.686Z</lastmod>
+    <lastmod>2020-10-15</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.tech5ve.com/2015/09/25/2015Autumn/</loc>
+    <loc>https://blog.tech5ve.com/2014/02/28/%E5%85%B3%E4%BA%8ETECH-F5VE/</loc>
     
-    <lastmod>2019-10-19T06:25:50.685Z</lastmod>
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.tech5ve.com/2019/10/13/2019Autumn/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.tech5ve.com/2019/10/19/5-years/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.tech5ve.com/2017/09/15/2017Autumn2/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.tech5ve.com/2018/10/08/2018Autumn/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.tech5ve.com/2017/10/01/2017Autumn1/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.tech5ve.com/2016/09/04/2016Autumn/</loc>
     
-    <lastmod>2019-10-19T06:25:50.685Z</lastmod>
+    <lastmod>2020-10-15</lastmod>
     
   </url>
+  
+  <url>
+    <loc>https://blog.tech5ve.com/2015/09/25/2015Autumn/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://blog.tech5ve.com/</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://blog.tech5ve.com/tags/Recruit/</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.tech5ve.com/tags/daily/</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.tech5ve.com/tags/About/</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.tech5ve.com/tags/Product/</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
   
 </urlset>

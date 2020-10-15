@@ -3,10 +3,10 @@
   <title>TECH F5VE</title>
   
   <subtitle>Application/Design/Security</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://blog.tech5ve.com/atom.xml" rel="self"/>
   
   <link href="https://blog.tech5ve.com/"/>
-  <updated>2019-10-19T08:09:51.391Z</updated>
+  <updated>2020-10-15T02:41:06.524Z</updated>
   <id>https://blog.tech5ve.com/</id>
   
   <author>
@@ -14,31 +14,52 @@
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020秋季纳新说明</title>
+    <link href="https://blog.tech5ve.com/2020/10/15/2020Autumn/"/>
+    <id>https://blog.tech5ve.com/2020/10/15/2020Autumn/</id>
+    <published>2020-10-15T01:00:00.000Z</published>
+    <updated>2020-10-15T02:41:06.524Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="TECH-F5VE-2020秋季招新宣讲会"><a href="#TECH-F5VE-2020秋季招新宣讲会" class="headerlink" title="TECH F5VE 2020秋季招新宣讲会"></a>TECH F5VE 2020秋季招新宣讲会</h1><h2 id="一、TECH-F5VE-TECH5-简介"><a href="#一、TECH-F5VE-TECH5-简介" class="headerlink" title="一、TECH F5VE/TECH5 简介"></a>一、TECH F5VE/TECH5 简介</h2><ul><li>TECH F5VE（或 TECH5）是由一群热爱计算机技术与艺术设计的学生自主发起的，不隶属于任何组织／部门／机构的技术向组织，其中发起人为Chi。TECH F5VE 于2014年秋成立，其取意为“技术”与“刷新”，即希望我们能够虚心且不断创新。团队从成立至今，始终坚持技术分享，不断进取的初衷，积极参与各类技术交流大会、创新型比赛（Google Developer Day、Hackthon etc.），Follow 最新最炫的技术。目前毕业成员就职经历涵盖阿里，字节跳动，网易，绿盟等一线互联网企业。如果你也是一位来自江大的热爱技术／设计的同学，那么一定不要错过本次的纳新报名哦！</li><li><a href="https://www.wenjuan.com/s/Iz26Vj0">报名入口</a></li><li>QQ群：1158217075</li></ul><h2 id="二、关于宣讲会"><a href="#二、关于宣讲会" class="headerlink" title="二、关于宣讲会"></a>二、关于宣讲会</h2><p>大学伊始，对技术充满好奇的你一定有很多疑问：我应该学什么？我以后能做什么？app，网站，游戏是怎么做出来的……</p><p><strong>为了让你的技术之路走得更加平稳，这次宣讲会我们准备了这些内容：</strong></p><h3 id="Web-前端"><a href="#Web-前端" class="headerlink" title="Web 前端"></a>Web 前端</h3><ul><li>我们透过浏览器看到的世界变得越来越漂亮，从一个小小的按钮到各种绚丽的动画效果，我们都可以一窥前端在其中扮演的角色。</li><li>屏幕上炫酷的动画，你有想过它是怎么从无到有构成的吗？当然，我们的旅途并不局限于浏览器，在手机APP等其他平台，也能看到前端活跃的身影。</li></ul><ul><li><ul><li>主要方向：网站、APP、客户端搭建</li></ul></li></ul><h3 id="Web-后端"><a href="#Web-后端" class="headerlink" title="Web 后端"></a>Web 后端</h3><ul><li>后端虽然没有前端那样炫酷的界面和交互，但是从早期的单机时代，到现在超大规模的互联网时代，几亿人参与的春运，几千亿成交规模的双十一，后端支撑起了千千万万的前端应用，我们负责编写运行于服务器的代码，这一部分不直接和用户打交道，但它是一个应用程序的核心：处理数据库中千百万条数据、构建高性能、安全稳健的后端程序以应对日益增长的流量和用户。</li></ul><h3 id="python"><a href="#python" class="headerlink" title="python"></a>python</h3><ul><li>python是一门功能强大的脚本语言，其简洁、优美的语法特点深受程序员的喜爱， 其丰富的第三方库也使python成为了数据分析的首选，日常工作中也可以写脚本实现自动化办公,可以从网络中批量爬取图片、视频等等，“人生苦短，我用python”。此外、python在人工智能方面拥有着极佳的前景，目前市面上大部分的人工智能的代码都是使用Python 来编写。</li></ul><h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><ul><li>喜欢玩游戏的你有没有想过，有朝一日自己也能开发一款游戏？领略过《风之旅人》，《怪物猎人》，《刺客信条》等大作的奇思妙想之后，你是不是也有种冲动，想要构建一个自己的美丽世界？</li><li>在这次的游戏宣讲中，你将会 get 到游戏开发的乐趣。</li></ul><h3 id="学长组分享"><a href="#学长组分享" class="headerlink" title="学长组分享"></a>学长组分享</h3><ul><li>我们邀请到了TECH F5VE多位学长，为新生提供一些过来人的建议</li></ul><h3 id="时间地点"><a href="#时间地点" class="headerlink" title="时间地点"></a>时间地点</h3><ul><li><strong>宣讲会时间：2020年10月17日 周六 下午2：00</strong></li><li><strong>宣讲会地点：计算机学院113、创业基地会议室(备用)</strong> </li></ul><h2 id="三、关于纳新"><a href="#三、关于纳新" class="headerlink" title="三、关于纳新"></a>三、关于纳新</h2><p><strong><em>本次纳新主要面对大一、大二同学\</em></strong></p><p>TECH F5VE是一群热爱技术的人一起搭建的理想乡，如果你也热爱技术，热爱分享，希望在成长的路上不那么孤单，欢迎你加入我们。</p><p>如果你有兴趣加入我们，欢迎你来参加我们的纳新面试！</p><h3 id="时间：2020年10月18日-周日下午2点"><a href="#时间：2020年10月18日-周日下午2点" class="headerlink" title="时间：2020年10月18日 周日下午2点"></a>时间：2020年10月18日 周日下午2点</h3><h3 id="地点：江苏大学创业苗圃内创盟会议室（暂定）"><a href="#地点：江苏大学创业苗圃内创盟会议室（暂定）" class="headerlink" title="地点：江苏大学创业苗圃内创盟会议室（暂定）"></a>地点：江苏大学创业苗圃内创盟会议室（暂定）</h3><h3 id="关于纳新的一些问题"><a href="#关于纳新的一些问题" class="headerlink" title="关于纳新的一些问题"></a>关于纳新的一些问题</h3><h4 id="我能获得什么"><a href="#我能获得什么" class="headerlink" title="我能获得什么"></a>我能获得什么</h4><ol><li>在这里你能找到志同道合的人，同样热爱一件事情，让你保持对计算机技术的热爱。</li><li>从别人身上获取你所不知道的知识。</li><li>了解行业动态，技术的更替和相关的比赛事宜。</li><li><strong>由于我们历届的成员已经进入到各个企业／学校内，因此群内会不时拥有内推机会！</strong></li></ol><h4 id="我需要做些什么"><a href="#我需要做些什么" class="headerlink" title="我需要做些什么"></a>我需要做些什么</h4><ol><li>学习，技术需要时间去积累，只有不断学习才能尽快成长</li><li>分享，在学到了新东西以后，不要忘记去和大家分享，TECH F5VE的初衷是坚持技术分享、不断进取。</li></ol><h4 id="我们看重什么"><a href="#我们看重什么" class="headerlink" title="我们看重什么"></a>我们看重什么</h4><ol><li>向我们展示你的热情，对技术的钻研与执着</li><li>坚持。坚持自学，坚持积累，坚持热爱技术</li></ol><h2 id="四、两个日期"><a href="#四、两个日期" class="headerlink" title="四、两个日期"></a>四、两个日期</h2><ul><li><p><strong>宣讲会时间：2020年10月17日 周六 下午2：00</strong></p></li><li><p><strong>宣讲会地点：计算机学院113、创业基地会议室(备用)</strong></p></li><li><p><strong>TECH F5VE 纳新时间：2020年10月18日 周日下午2点</strong></p></li><li><p><strong>纳新地点：江苏大学创业苗圃内创盟会议室（暂定，详情见QQ群通知）</strong></p></li><li><p>报名方式：</p></li><li><ul><li><a href="https://www.wenjuan.com/s/Iz26Vj0">报名入口</a></li><li>QQ群：1158217075</li></ul></li></ul><h2 id="五、联系方式"><a href="#五、联系方式" class="headerlink" title="五、联系方式"></a>五、联系方式</h2><p>TECH F5VE邮箱： <a href="mailto:tech5@techf5ve.com">tech5@techf5ve.com</a></p><p>FAQ群：（q群二维码）</p><img src="https://blogs-images.youchen-blog.cn/20201013092042.png" alt="image-20201013092033682" style="zoom: 25%;" />]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;TECH-F5VE-2020秋季招新宣讲会&quot;&gt;&lt;a href=&quot;#TECH-F5VE-2020秋季招新宣讲会&quot; class=&quot;headerlink&quot; title=&quot;TECH F5VE 2020秋季招新宣讲会&quot;&gt;&lt;/a&gt;TECH F5VE 2020秋季招新宣讲会&lt;/</summary>
+      
+    
+    
+    
+    
+    <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
+    
+  </entry>
   
   <entry>
     <title>TECH5 in 5 years</title>
     <link href="https://blog.tech5ve.com/2019/10/19/5-years/"/>
     <id>https://blog.tech5ve.com/2019/10/19/5-years/</id>
     <published>2019-10-19T06:28:46.000Z</published>
-    <updated>2019-10-19T08:09:51.391Z</updated>
+    <updated>2020-10-15T01:34:06.801Z</updated>
     
-    <content type="html"><![CDATA[<style>.post img {   width: 300px;}</style><p>用什么开头呢？ “时间飞逝”，“好快啊”， “Time filies!”，总之不知不觉 TECH5 已经来到了第五个年头了，总之不知不觉那些 2013 年从天南地北拖着行李来到学府路报道的同学们又去了天南地北，总之不知不觉现在又到了新的一年招新时刻。<br><a id="more"></a></p><p>从 2014，2015，16，17，18，到 19，他们现在在哪里，在做什么。想起当时那份热血，<code>不因为被冷落，而停止去热爱</code>, 以下，我们拿到了一些已经毕业的 TECH5 成员，来看到他们说了什么：</p><p>（以年份/姓名排名）</p><h3 id="2013"><a href="#2013" class="headerlink" title="2013"></a>2013</h3><h4 id="Chi-Bangqiang"><a href="#Chi-Bangqiang" class="headerlink" title="Chi Bangqiang"></a>Chi Bangqiang</h4><p><img src="/images/5 years/chibq.JPG" alt="Chi Bangqiang"></p><p>坐标：香港/投资银行</p><blockquote><p>我越来越意识到“开源”的重要性，“开源”不仅仅体现在计算机程序的世界中，它的哲学也启发生活的方式。TECH5在这一方面，将各类对计算机有热情的人聚集在一起，构建一个有质量的交流圈子，是一个“Best Practice”。这四年间在TECH5，我从周围优秀的人身上学习到了很多之前不曾了解过的知识，很多次随意的闲聊都帮助我从不同的角度看待问题。我很感谢在这里遇到的每一个人。</p><p>在江大的四年是我最好的四年，我希望新加入的 TECH5 成员们可以多交流，一起学习，一起 Hack，一起做项目。不要害怕自己理解不全而不敢交流，勇敢和虚心，这是我学习到最多的东西。</p></blockquote><h4 id="Fallen-Angel"><a href="#Fallen-Angel" class="headerlink" title="Fallen Angel"></a>Fallen Angel</h4><p><img src="/images/5 years/fallenangel.png" alt="Fallen Angel"></p><p>坐标：广州/安全</p><blockquote><p>干安全不是在挖坑的路上，就是在填坑的路上。</p></blockquote><h4 id="Huang-Yi"><a href="#Huang-Yi" class="headerlink" title="Huang Yi"></a>Huang Yi</h4><p><img src="/images/5 years/huangy.png" alt="Huang Yi"></p><p>坐标：南京/南京理工大学</p><blockquote><p>海阔凭鱼跃，天高任鸟飞。就这句话吧。</p></blockquote><h4 id="Yang-Tingfeng"><a href="#Yang-Tingfeng" class="headerlink" title="Yang Tingfeng"></a>Yang Tingfeng</h4><p><img src="/images/5 years/yangtf.jpg" alt="Yang Tingfeng"></p><p>坐标: 杭州 / 安恒信息</p><blockquote><p>大学多多跟黄大佬学习，然后研究技术多深入原理，多深入底层。<br>   做技术要么有深度，要么有极大的广度。</p></blockquote><h3 id="2015"><a href="#2015" class="headerlink" title="2015"></a>2015</h3><h4 id="Ma-Mingjun"><a href="#Ma-Mingjun" class="headerlink" title="Ma Mingjun"></a>Ma Mingjun</h4><p><img src="/images/5 years/mamj.jpeg" alt="Ma Mingjun"></p><p>坐标：上海华东师范大学-继续求学</p><blockquote><p>1.如果回到过去，本科真的要定一个 long-term goal，眼光放长远，可以是看一项技术的底层，可以是看一个领域的 paper，那是一个“种树”的绝佳时期。 </p><p>2.基础很重要，学的时候造轮子，用轮子的时候才不会捉鸡。（比起追求很多新兴的技术，我觉得目前大学可以多理解些计算机的各种原理。） </p><p>3.尽量多了解些关于国外的大学计算机在学什么，清北复交在学什么。</p><p>4.事情很多，把时间留给真正重要的事。 5.坚持锻炼身体，共勉。</p></blockquote><h4 id="Tsang-Fred"><a href="#Tsang-Fred" class="headerlink" title="Tsang Fred"></a>Tsang Fred</h4><p><img src="/images/5 years/tsangfred.JPG" alt="Tsang Fred"></p><p>坐标：广州/CVTE</p><blockquote><p>终日忙忙碌碌，为柴米油盐所困 ，暂寻一地蛰伏，待春暖花开之日，一鸣惊人，愿诸君共勉。</p></blockquote><h4 id="Wu-Hao"><a href="#Wu-Hao" class="headerlink" title="Wu Hao"></a>Wu Hao</h4><p><img src="/images/5 years/wuh.jpg" alt="Wu Hao"></p><p>坐标：北京/字节跳动</p><blockquote><p>重回大学，我会更早的当程序员，早点转 CS 哈哈哈</p></blockquote><hr><p>最后的最后，callback一下当年的愿望：<code>我们因为热爱计算机／艺术设计的初衷而走一起，将来无论在哪里，也会继续下去。</code></p>]]></content>
+    <content type="html"><![CDATA[<style>.post img {   width: 300px;}</style><p>用什么开头呢？ “时间飞逝”，“好快啊”， “Time filies!”，总之不知不觉 TECH5 已经来到了第五个年头了，总之不知不觉那些 2013 年从天南地北拖着行李来到学府路报道的同学们又去了天南地北，总之不知不觉现在又到了新的一年招新时刻。</p><a id="more"></a><p>从 2014，2015，16，17，18，到 19，他们现在在哪里，在做什么。想起当时那份热血，<code>不因为被冷落，而停止去热爱</code>, 以下，我们拿到了一些已经毕业的 TECH5 成员，来看到他们说了什么：</p><p>（以年份/姓名排名）</p><h3 id="2013"><a href="#2013" class="headerlink" title="2013"></a>2013</h3><h4 id="Chi-Bangqiang"><a href="#Chi-Bangqiang" class="headerlink" title="Chi Bangqiang"></a>Chi Bangqiang</h4><p>![Chi Bangqiang](/images/5 years/chibq.JPG)</p><p>坐标：香港/投资银行</p><blockquote><p>我越来越意识到“开源”的重要性，“开源”不仅仅体现在计算机程序的世界中，它的哲学也启发生活的方式。TECH5在这一方面，将各类对计算机有热情的人聚集在一起，构建一个有质量的交流圈子，是一个“Best Practice”。这四年间在TECH5，我从周围优秀的人身上学习到了很多之前不曾了解过的知识，很多次随意的闲聊都帮助我从不同的角度看待问题。我很感谢在这里遇到的每一个人。</p><p>在江大的四年是我最好的四年，我希望新加入的 TECH5 成员们可以多交流，一起学习，一起 Hack，一起做项目。不要害怕自己理解不全而不敢交流，勇敢和虚心，这是我学习到最多的东西。</p></blockquote><h4 id="Fallen-Angel"><a href="#Fallen-Angel" class="headerlink" title="Fallen Angel"></a>Fallen Angel</h4><p>![Fallen Angel](/images/5 years/fallenangel.png)</p><p>坐标：广州/安全</p><blockquote><p>干安全不是在挖坑的路上，就是在填坑的路上。</p></blockquote><h4 id="Huang-Yi"><a href="#Huang-Yi" class="headerlink" title="Huang Yi"></a>Huang Yi</h4><p>![Huang Yi](/images/5 years/huangy.png)</p><p>坐标：南京/南京理工大学</p><blockquote><p>海阔凭鱼跃，天高任鸟飞。就这句话吧。</p></blockquote><h4 id="Yang-Tingfeng"><a href="#Yang-Tingfeng" class="headerlink" title="Yang Tingfeng"></a>Yang Tingfeng</h4><p>![Yang Tingfeng](/images/5 years/yangtf.jpg)</p><p>坐标: 杭州 / 安恒信息</p><blockquote><p>大学多多跟黄大佬学习，然后研究技术多深入原理，多深入底层。<br>   做技术要么有深度，要么有极大的广度。</p></blockquote><h3 id="2015"><a href="#2015" class="headerlink" title="2015"></a>2015</h3><h4 id="Ma-Mingjun"><a href="#Ma-Mingjun" class="headerlink" title="Ma Mingjun"></a>Ma Mingjun</h4><p>![Ma Mingjun](/images/5 years/mamj.jpeg)</p><p>坐标：上海华东师范大学-继续求学</p><blockquote><p>1.如果回到过去，本科真的要定一个 long-term goal，眼光放长远，可以是看一项技术的底层，可以是看一个领域的 paper，那是一个“种树”的绝佳时期。 </p><p>2.基础很重要，学的时候造轮子，用轮子的时候才不会捉鸡。（比起追求很多新兴的技术，我觉得目前大学可以多理解些计算机的各种原理。） </p><p>3.尽量多了解些关于国外的大学计算机在学什么，清北复交在学什么。</p><p>4.事情很多，把时间留给真正重要的事。 5.坚持锻炼身体，共勉。</p></blockquote><h4 id="Tsang-Fred"><a href="#Tsang-Fred" class="headerlink" title="Tsang Fred"></a>Tsang Fred</h4><p>![Tsang Fred](/images/5 years/tsangfred.JPG)</p><p>坐标：广州/CVTE</p><blockquote><p>终日忙忙碌碌，为柴米油盐所困 ，暂寻一地蛰伏，待春暖花开之日，一鸣惊人，愿诸君共勉。</p></blockquote><h4 id="Wu-Hao"><a href="#Wu-Hao" class="headerlink" title="Wu Hao"></a>Wu Hao</h4><p>![Wu Hao](/images/5 years/wuh.jpg)</p><p>坐标：北京/字节跳动</p><blockquote><p>重回大学，我会更早的当程序员，早点转 CS 哈哈哈</p></blockquote><hr><p>最后的最后，callback一下当年的愿望：<code>我们因为热爱计算机／艺术设计的初衷而走一起，将来无论在哪里，也会继续下去。</code></p>]]></content>
     
-    <summary type="html">
     
-      &lt;style&gt;
+    <summary type="html">&lt;style&gt;
 .post img {
    width: 300px;
 }
 &lt;/style&gt;
 
-&lt;p&gt;用什么开头呢？ “时间飞逝”，“好快啊”， “Time filies!”，总之不知不觉 TECH5 已经来到了第五个年头了，总之不知不觉那些 2013 年从天南地北拖着行李来到学府路报道的同学们又去了天南地北，总之不知不觉现在又到了新的一年招新时刻。&lt;br&gt;
-    
-    </summary>
+&lt;p&gt;用什么开头呢？ “时间飞逝”，“好快啊”， “Time filies!”，总之不知不觉 TECH5 已经来到了第五个年头了，总之不知不觉那些 2013 年从天南地北拖着行李来到学府路报道的同学们又去了天南地北，总之不知不觉现在又到了新的一年招新时刻。&lt;/p&gt;</summary>
     
     
-      <category term="daily" scheme="https://blog.tech5ve.com/tags/daily/"/>
+    
+    
+    <category term="daily" scheme="https://blog.tech5ve.com/tags/daily/"/>
     
   </entry>
   
@@ -47,13 +68,12 @@
     <link href="https://blog.tech5ve.com/2019/10/13/2019Autumn/"/>
     <id>https://blog.tech5ve.com/2019/10/13/2019Autumn/</id>
     <published>2019-10-13T12:00:00.000Z</published>
-    <updated>2019-10-19T06:25:50.686Z</updated>
+    <updated>2020-10-15T01:34:06.801Z</updated>
     
-    <content type="html"><![CDATA[<style type="text/css">.post-content h3, .post-content h4 {    margin-left: 40px;}</style><h2 id="一、TECH-F5VE-TECH5-简介"><a href="#一、TECH-F5VE-TECH5-简介" class="headerlink" title="一、TECH F5VE / TECH5 简介"></a>一、TECH F5VE / TECH5 简介</h2><p>TECH F5VE（或 TECH5）是由一群热爱计算机技术与艺术设计的学生自主发起的，不隶属于任何组织／部门／机构的技术向组织，其中发起人为Chi。TECH F5VE 于2014年秋成立，其取意为“技术”与“刷新”，即希望我们能够虚心且不断创新。团队从成立至今，始终坚持技术分享，不断进取的初衷，积极参与各类技术交流大会、创新型比赛（Google Developer Day、Hackthon etc.），<strong>Follow</strong> 最新最炫的技术。目前毕业成员就职经历涵盖阿里、字节跳动、网易、绿盟等一线互联网企业。如果你也是一位来自江大的热爱技术／设计的同学，那么一定不要错过本次的纳新报名哦！</p><ul><li>时间 <a>即日~2019年10月20日 周日 12:00</a></li><li><a href="https://wj.qq.com/s2/4735971/1583/" target="_blank" rel="noopener">报名入口</a></li><li>QQ群：604811424</li></ul><h2 id="二、关于宣讲会"><a href="#二、关于宣讲会" class="headerlink" title="二、关于宣讲会"></a>二、关于宣讲会</h2><p>大学伊始，对技术充满好奇的你一定有很多疑问：我应该学什么？我以后能做什么？APP，网站，游戏是怎么做出来的……<br><strong>为了让你的技术之路走得更加平稳，本次宣讲会我们准备了这些内容：</strong><br><a id="more"></a></p><h3 id="Web-前端-amp-后端"><a href="#Web-前端-amp-后端" class="headerlink" title="Web 前端 &amp; 后端"></a>Web 前端 &amp; 后端</h3><ul><li>我们透过浏览器看到的世界变得越来越漂亮，从最早的白底黑字到现在的各种动画交互效果，前端技术经历了怎样的变化？</li><li>双十一的时候，你凌晨守着屏幕，等着灰色的抢购按钮亮起。当你和其它几万人点下抢购按钮的时候，这个小小的按钮背后究竟发生了什么？淘宝的工程师们在服务端做了哪些事情，让抢购这件事情变得更加愉快？</li><li>Web经历了快三十多年的发展，如今的Web有着空前的发展。如果你对Web技术有兴趣而不知从哪里开始，我认为本次宣讲会是一个不错的出发点。</li></ul><h3 id="Python-爬虫"><a href="#Python-爬虫" class="headerlink" title="Python 爬虫"></a>Python 爬虫</h3><ul><li>“人生苦短，我用Python。”嗯？你问我用Python能干什么？</li><li>Python是一门功能强大的脚本语言，其丰富的科学计算库使得Python成为了数据科学的首选语言。同时Python也能完成许多很“酷”的事情：自动批量操作文件、爬取音乐/视频、渗透测试等。</li></ul><h3 id="Linux系统"><a href="#Linux系统" class="headerlink" title="Linux系统"></a>Linux系统</h3><ul><li>《黑客军团》里的主角使用的系统是Kali Linux，事实上在服务器上运行的绝大多数系统都是Linux。Linux有搭建各种高可用服务的技术，是所有业务的“底盘”，工程师们始终关注开源，跟进社区最新动态并力争混迹于此，专注于C、Golang和Java，开发从内核到容器化应用。在本次宣讲会中，我们将从最简单的开始，带你领略命令行的魅力。</li></ul><h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><ul><li>喜欢玩游戏的你有没有想过，有朝一日自己也能开发一款游戏？领略过《风之旅人》，《怪物猎人》，《刺客信条》等大作的奇思妙想之后，你是不是也有种冲动，想要构建一个自己的美丽世界？</li><li>做游戏距离我们有多远，一个游戏是如何被开发出来的，如今的游戏行业是否值得进入，你是否适合去做游戏？做游戏需要哪些技能点？Game团队专门制作了一个游戏来为你解答。</li></ul><h3 id="全栈技术"><a href="#全栈技术" class="headerlink" title="全栈技术"></a>全栈技术</h3><ul><li>我们有幸邀请到了TECH F5VE元老级成员，在最近的秋招中斩获网易互娱SP，腾讯，字节跳动等大厂offer的技术大牛<strong>黄毅</strong>为大家介绍其它各种技术栈，并和大家分享他在秋招中的经历，以及他的技术学习方法论。</li></ul><h3 id="时间地点"><a href="#时间地点" class="headerlink" title="时间地点"></a>时间地点</h3><ul><li><strong>宣讲会时间：2019年10月19日 周六 14:00</strong></li><li><strong>宣讲会地点：计算机学院208</strong></li></ul><h2 id="三、关于纳新"><a href="#三、关于纳新" class="headerlink" title="三、关于纳新"></a>三、关于纳新</h2><p><strong>本次纳新主要面向大一同学，大二、大三同学可将个人简历发送至底部邮箱，我们将尽快处理。</strong><br>TECH F5VE 是一群热爱技术的人一起搭建的理想乡，如果你也热爱技术，热爱分享，希望在成长的路上不那么孤单，欢迎你加入我们。</p><ul><li><strong>时间：2019年10月20日 周日</strong></li><li><strong>地点：江苏大学创业苗圃内创盟会议室(三食堂楼下)</strong></li></ul><h2 id="关于纳新的一些问题"><a href="#关于纳新的一些问题" class="headerlink" title="关于纳新的一些问题"></a>关于纳新的一些问题</h2><h4 id="我能获得什么"><a href="#我能获得什么" class="headerlink" title="我能获得什么"></a>我能获得什么</h4><ol><li>在这里你能找到一群志同道合的人，同样热爱一件事情，让你保持对计算机技术的热爱。</li><li>从别人身上获取你所不知道的知识。</li><li>了解行业动态，技术的更替和相关的比赛事宜。</li><li><strong>由于我们历届的成员已经进入到各个企业／学校内，因此群内会不时拥有内推机会！</strong></li></ol><h4 id="我需要做些什么"><a href="#我需要做些什么" class="headerlink" title="我需要做些什么"></a>我需要做些什么</h4><ol><li><strong>学习</strong>，技术需要时间去积累，只有不断学习才能尽快成长</li><li><strong>分享</strong>，在学到了新东西以后，不要忘记去和大家分享，TECH F5VE的初衷是坚持技术分享、不断进取。</li></ol><h4 id="我们看重什么"><a href="#我们看重什么" class="headerlink" title="我们看重什么"></a>我们看重什么</h4><ol><li>向我们展示你的<strong>热情</strong>，对技术的钻研与执着</li><li><strong>坚持</strong>。坚持积累，坚持热爱技术</li></ol><h2 id="四、说在加入之前的话"><a href="#四、说在加入之前的话" class="headerlink" title="四、说在加入之前的话"></a>四、说在加入之前的话</h2><ul><li>TECH5是一个年轻有活力的组织，但是也纯粹出于自发，我们因为热爱一件事物而走在一起，将来不论在何处，也会继续下去，因此希望加入者们能将这一特点发扬光大。</li><li>长期（指1个月 - 3个月）处于“僵尸”状态，我们默认你并不愿意继续留在TECH5，为了防止误踢，我们会提前询问你。</li><li>TECH5现在的目标是成为江苏大学内有水平的兴趣爱好组织，提供一个平台给热爱计算机的同学进行交流，我们期待与您一同进步。</li><li>组内成员并无任何义务必须回答或帮助其他人，请在提问前善用搜索，对于提供解答的人说声”谢谢”，但是我们推荐大家把经过思考和琢磨的问题拿出来与大家分享与交流，以及在力所能及的范围内进行帮助。</li><li>鼓励自由言论，但是不要引起公愤。</li></ul><h2 id="五、两个日期"><a href="#五、两个日期" class="headerlink" title="五、两个日期"></a>五、两个日期</h2><ul><li><strong>宣讲会时间：2019年10月19日 周六 14:00</strong></li><li><strong>宣讲会地点：计算机学院208</strong></li><li><strong>TECH F5VE 纳新时间：2019年10月20日 周日</strong></li><li><strong>纳新地点：江苏大学创业苗圃内创盟会议室(三食堂楼下)</strong></li><li>TECH F5VE邮箱： <a href="mailto:tech5@techf5ve.com" target="_blank" rel="noopener">tech5@techf5ve.com</a>， 或 <a href="mailto:fred.zeng@techf5ve.com" target="_blank" rel="noopener">fred.zeng@techf5ve.com</a></li><li><a href="https://wj.qq.com/s2/4735971/1583/" target="_blank" rel="noopener">报名入口</a></li><li>QQ群：604811424<br><img src="/images/2019FAQ.png" alt="2019FAQ"></li></ul>]]></content>
+    <content type="html"><![CDATA[<style type="text/css">.post-content h3, .post-content h4 {    margin-left: 40px;}</style><h2 id="一、TECH-F5VE-TECH5-简介"><a href="#一、TECH-F5VE-TECH5-简介" class="headerlink" title="一、TECH F5VE / TECH5 简介"></a>一、TECH F5VE / TECH5 简介</h2><p>TECH F5VE（或 TECH5）是由一群热爱计算机技术与艺术设计的学生自主发起的，不隶属于任何组织／部门／机构的技术向组织，其中发起人为Chi。TECH F5VE 于2014年秋成立，其取意为“技术”与“刷新”，即希望我们能够虚心且不断创新。团队从成立至今，始终坚持技术分享，不断进取的初衷，积极参与各类技术交流大会、创新型比赛（Google Developer Day、Hackthon etc.），<strong>Follow</strong> 最新最炫的技术。目前毕业成员就职经历涵盖阿里、字节跳动、网易、绿盟等一线互联网企业。如果你也是一位来自江大的热爱技术／设计的同学，那么一定不要错过本次的纳新报名哦！</p><ul><li>时间 <a>即日~2019年10月20日 周日 12:00</a></li><li><a href="https://wj.qq.com/s2/4735971/1583/">报名入口</a></li><li>QQ群：604811424</li></ul><h2 id="二、关于宣讲会"><a href="#二、关于宣讲会" class="headerlink" title="二、关于宣讲会"></a>二、关于宣讲会</h2><p>大学伊始，对技术充满好奇的你一定有很多疑问：我应该学什么？我以后能做什么？APP，网站，游戏是怎么做出来的……<br><strong>为了让你的技术之路走得更加平稳，本次宣讲会我们准备了这些内容：</strong></p><a id="more"></a><h3 id="Web-前端-amp-后端"><a href="#Web-前端-amp-后端" class="headerlink" title="Web 前端 &amp; 后端"></a>Web 前端 &amp; 后端</h3><ul><li>我们透过浏览器看到的世界变得越来越漂亮，从最早的白底黑字到现在的各种动画交互效果，前端技术经历了怎样的变化？</li><li>双十一的时候，你凌晨守着屏幕，等着灰色的抢购按钮亮起。当你和其它几万人点下抢购按钮的时候，这个小小的按钮背后究竟发生了什么？淘宝的工程师们在服务端做了哪些事情，让抢购这件事情变得更加愉快？</li><li>Web经历了快三十多年的发展，如今的Web有着空前的发展。如果你对Web技术有兴趣而不知从哪里开始，我认为本次宣讲会是一个不错的出发点。</li></ul><h3 id="Python-爬虫"><a href="#Python-爬虫" class="headerlink" title="Python 爬虫"></a>Python 爬虫</h3><ul><li>“人生苦短，我用Python。”嗯？你问我用Python能干什么？</li><li>Python是一门功能强大的脚本语言，其丰富的科学计算库使得Python成为了数据科学的首选语言。同时Python也能完成许多很“酷”的事情：自动批量操作文件、爬取音乐/视频、渗透测试等。</li></ul><h3 id="Linux系统"><a href="#Linux系统" class="headerlink" title="Linux系统"></a>Linux系统</h3><ul><li>《黑客军团》里的主角使用的系统是Kali Linux，事实上在服务器上运行的绝大多数系统都是Linux。Linux有搭建各种高可用服务的技术，是所有业务的“底盘”，工程师们始终关注开源，跟进社区最新动态并力争混迹于此，专注于C、Golang和Java，开发从内核到容器化应用。在本次宣讲会中，我们将从最简单的开始，带你领略命令行的魅力。</li></ul><h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><ul><li>喜欢玩游戏的你有没有想过，有朝一日自己也能开发一款游戏？领略过《风之旅人》，《怪物猎人》，《刺客信条》等大作的奇思妙想之后，你是不是也有种冲动，想要构建一个自己的美丽世界？</li><li>做游戏距离我们有多远，一个游戏是如何被开发出来的，如今的游戏行业是否值得进入，你是否适合去做游戏？做游戏需要哪些技能点？Game团队专门制作了一个游戏来为你解答。</li></ul><h3 id="全栈技术"><a href="#全栈技术" class="headerlink" title="全栈技术"></a>全栈技术</h3><ul><li>我们有幸邀请到了TECH F5VE元老级成员，在最近的秋招中斩获网易互娱SP，腾讯，字节跳动等大厂offer的技术大牛<strong>黄毅</strong>为大家介绍其它各种技术栈，并和大家分享他在秋招中的经历，以及他的技术学习方法论。</li></ul><h3 id="时间地点"><a href="#时间地点" class="headerlink" title="时间地点"></a>时间地点</h3><ul><li><strong>宣讲会时间：2019年10月19日 周六 14:00</strong></li><li><strong>宣讲会地点：计算机学院208</strong></li></ul><h2 id="三、关于纳新"><a href="#三、关于纳新" class="headerlink" title="三、关于纳新"></a>三、关于纳新</h2><p><strong>本次纳新主要面向大一同学，大二、大三同学可将个人简历发送至底部邮箱，我们将尽快处理。</strong><br>TECH F5VE 是一群热爱技术的人一起搭建的理想乡，如果你也热爱技术，热爱分享，希望在成长的路上不那么孤单，欢迎你加入我们。</p><ul><li><strong>时间：2019年10月20日 周日</strong></li><li><strong>地点：江苏大学创业苗圃内创盟会议室(三食堂楼下)</strong></li></ul><h2 id="关于纳新的一些问题"><a href="#关于纳新的一些问题" class="headerlink" title="关于纳新的一些问题"></a>关于纳新的一些问题</h2><h4 id="我能获得什么"><a href="#我能获得什么" class="headerlink" title="我能获得什么"></a>我能获得什么</h4><ol><li>在这里你能找到一群志同道合的人，同样热爱一件事情，让你保持对计算机技术的热爱。</li><li>从别人身上获取你所不知道的知识。</li><li>了解行业动态，技术的更替和相关的比赛事宜。</li><li><strong>由于我们历届的成员已经进入到各个企业／学校内，因此群内会不时拥有内推机会！</strong></li></ol><h4 id="我需要做些什么"><a href="#我需要做些什么" class="headerlink" title="我需要做些什么"></a>我需要做些什么</h4><ol><li><strong>学习</strong>，技术需要时间去积累，只有不断学习才能尽快成长</li><li><strong>分享</strong>，在学到了新东西以后，不要忘记去和大家分享，TECH F5VE的初衷是坚持技术分享、不断进取。</li></ol><h4 id="我们看重什么"><a href="#我们看重什么" class="headerlink" title="我们看重什么"></a>我们看重什么</h4><ol><li>向我们展示你的<strong>热情</strong>，对技术的钻研与执着</li><li><strong>坚持</strong>。坚持积累，坚持热爱技术</li></ol><h2 id="四、说在加入之前的话"><a href="#四、说在加入之前的话" class="headerlink" title="四、说在加入之前的话"></a>四、说在加入之前的话</h2><ul><li>TECH5是一个年轻有活力的组织，但是也纯粹出于自发，我们因为热爱一件事物而走在一起，将来不论在何处，也会继续下去，因此希望加入者们能将这一特点发扬光大。</li><li>长期（指1个月 - 3个月）处于“僵尸”状态，我们默认你并不愿意继续留在TECH5，为了防止误踢，我们会提前询问你。</li><li>TECH5现在的目标是成为江苏大学内有水平的兴趣爱好组织，提供一个平台给热爱计算机的同学进行交流，我们期待与您一同进步。</li><li>组内成员并无任何义务必须回答或帮助其他人，请在提问前善用搜索，对于提供解答的人说声”谢谢”，但是我们推荐大家把经过思考和琢磨的问题拿出来与大家分享与交流，以及在力所能及的范围内进行帮助。</li><li>鼓励自由言论，但是不要引起公愤。</li></ul><h2 id="五、两个日期"><a href="#五、两个日期" class="headerlink" title="五、两个日期"></a>五、两个日期</h2><ul><li><strong>宣讲会时间：2019年10月19日 周六 14:00</strong></li><li><strong>宣讲会地点：计算机学院208</strong></li><li><strong>TECH F5VE 纳新时间：2019年10月20日 周日</strong></li><li><strong>纳新地点：江苏大学创业苗圃内创盟会议室(三食堂楼下)</strong></li><li>TECH F5VE邮箱： <a href="mailto:tech5@techf5ve.com">tech5@techf5ve.com</a>， 或 <a href="mailto:fred.zeng@techf5ve.com">fred.zeng@techf5ve.com</a></li><li><a href="https://wj.qq.com/s2/4735971/1583/">报名入口</a></li><li>QQ群：604811424<br><img src="/images/2019FAQ.png" alt="2019FAQ"></li></ul>]]></content>
     
-    <summary type="html">
     
-      &lt;style type=&quot;text/css&quot;&gt;
+    <summary type="html">&lt;style type=&quot;text/css&quot;&gt;
 .post-content h3, .post-content h4 {
     margin-left: 40px;
 }
@@ -62,15 +82,15 @@
 &lt;h2 id=&quot;一、TECH-F5VE-TECH5-简介&quot;&gt;&lt;a href=&quot;#一、TECH-F5VE-TECH5-简介&quot; class=&quot;headerlink&quot; title=&quot;一、TECH F5VE / TECH5 简介&quot;&gt;&lt;/a&gt;一、TECH F5VE / TECH5 简介&lt;/h2&gt;&lt;p&gt;TECH F5VE（或 TECH5）是由一群热爱计算机技术与艺术设计的学生自主发起的，不隶属于任何组织／部门／机构的技术向组织，其中发起人为Chi。TECH F5VE 于2014年秋成立，其取意为“技术”与“刷新”，即希望我们能够虚心且不断创新。团队从成立至今，始终坚持技术分享，不断进取的初衷，积极参与各类技术交流大会、创新型比赛（Google Developer Day、Hackthon etc.），&lt;strong&gt;Follow&lt;/strong&gt; 最新最炫的技术。目前毕业成员就职经历涵盖阿里、字节跳动、网易、绿盟等一线互联网企业。如果你也是一位来自江大的热爱技术／设计的同学，那么一定不要错过本次的纳新报名哦！&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;时间 &lt;a&gt;即日~2019年10月20日 周日 12:00&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://wj.qq.com/s2/4735971/1583/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;报名入口&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wj.qq.com/s2/4735971/1583/&quot;&gt;报名入口&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;QQ群：604811424&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;二、关于宣讲会&quot;&gt;&lt;a href=&quot;#二、关于宣讲会&quot; class=&quot;headerlink&quot; title=&quot;二、关于宣讲会&quot;&gt;&lt;/a&gt;二、关于宣讲会&lt;/h2&gt;&lt;p&gt;大学伊始，对技术充满好奇的你一定有很多疑问：我应该学什么？我以后能做什么？APP，网站，游戏是怎么做出来的……&lt;br&gt;&lt;strong&gt;为了让你的技术之路走得更加平稳，本次宣讲会我们准备了这些内容：&lt;/strong&gt;&lt;br&gt;
-    
-    </summary>
+&lt;h2 id=&quot;二、关于宣讲会&quot;&gt;&lt;a href=&quot;#二、关于宣讲会&quot; class=&quot;headerlink&quot; title=&quot;二、关于宣讲会&quot;&gt;&lt;/a&gt;二、关于宣讲会&lt;/h2&gt;&lt;p&gt;大学伊始，对技术充满好奇的你一定有很多疑问：我应该学什么？我以后能做什么？APP，网站，游戏是怎么做出来的……&lt;br&gt;&lt;strong&gt;为了让你的技术之路走得更加平稳，本次宣讲会我们准备了这些内容：&lt;/strong&gt;&lt;/p&gt;</summary>
     
     
-      <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
+    
+    
+    <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
     
   </entry>
   
@@ -79,24 +99,23 @@
     <link href="https://blog.tech5ve.com/2018/10/08/2018Autumn/"/>
     <id>https://blog.tech5ve.com/2018/10/08/2018Autumn/</id>
     <published>2018-10-08T04:00:00.000Z</published>
-    <updated>2019-10-19T06:25:50.686Z</updated>
+    <updated>2020-10-15T01:34:06.799Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>注意：该信息已经过期</strong></p><hr><h2 id="一、TECH-F5VE-TECH5-简介"><a href="#一、TECH-F5VE-TECH5-简介" class="headerlink" title="一、TECH F5VE / TECH5 简介"></a>一、TECH F5VE / TECH5 简介</h2><ul><li>TECH F5VE（或 TECH5）是由一群热爱计算机技术与艺术设计的学生自主发起的，不隶属于任何组织／部门／机构的技术向组织，其中发起人为Chi。TECH F5VE 于2014年秋成立，其取意为“技术”与“刷新”，即希望我们能够虚心且不断创新。团队从成立至今，始终坚持技术分享，不断进取的初衷，积极参与各类技术交流大会、创新型比赛（Google Developer Day、Hackthon etc.），<strong>Follow</strong> 最新最炫的技术。如果你也是一位来自江大的热爱技术／设计的同学，那么一定不要错过本次的纳新报名哦！</li><li>时间 <a>即日~2018年10月14日 周六</a></li><li><del><a href="#">报名入口</a></del>(已过期)</li></ul><a id="more"></a><h2 id="二、一些改变"><a href="#二、一些改变" class="headerlink" title="二、一些改变"></a>二、一些改变</h2><p>为了团队和成员未来更好的发展，从今年开始，我们对TECH F5VE的组织架构进行了进一步的划分，从原来 “程序应用／视觉设计／信息安全” 三个组别，划分为以下七个小组：</p><h3 id="2-1-移动应用"><a href="#2-1-移动应用" class="headerlink" title="2.1 移动应用"></a>2.1 移动应用</h3><ul><li>基于 Android/iOS 系统，上至日常使用的移动应用，下到系统底层的“黑科技”，我们不断发掘移动应用的魅力。</li><li>主要方向：原生APP开发、Flutter开发…</li></ul><h3 id="2-2-GAME"><a href="#2-2-GAME" class="headerlink" title="2.2 GAME"></a>2.2 GAME</h3><ul><li>Game组热衷于设计并创造游戏，探索并深入底层。我们致力于深入游戏的每个阶段，引擎是我们创造世界的工具，策划是我们描绘世界的蓝图。在这里，你能尽情制造快乐，收获快乐，享受快乐。</li><li>主要方向：计算机图形学、游戏客户端开发…</li></ul><h3 id="2-3-Web前端"><a href="#2-3-Web前端" class="headerlink" title="2.3 Web前端"></a>2.3 Web前端</h3><ul><li>Web有你想要的一切，以通过互联网丰富生活为主要目的，时刻与最新的趋势保持同步。浏览器是我们的世界，在这里我们可以尽情地毁灭和创造。如今我们的舞台拓展到桌面应用（Electron）、移动APP（React Native ），而不是仅仅局限于网页。</li><li>主要方向：网站页面开发、WebApp开发、微信公众平台开发…</li></ul><h3 id="2-4-Web后端"><a href="#2-4-Web后端" class="headerlink" title="2.4 Web后端"></a>2.4 Web后端</h3><ul><li>后端没有前端那般精美绝伦，让人赞叹的画面，但是后端却支撑起了千千万万的前端应用，我们负责编写运行于服务器的代码，这一部分不直接和用户打交道，但它是一个应用程序的核心：处理数据库中千百万条数据、构建高性能、安全稳健的后端程序以应对日益增长的流量和用户。</li><li>主要方向：网站后台开发、企业级应用开发、云服务…</li></ul><h3 id="2-5-信息安全"><a href="#2-5-信息安全" class="headerlink" title="2.5 信息安全"></a>2.5 信息安全</h3><ul><li>这是一个神秘的小组，ErRoR cOdE: 404。</li><li>主要方向：网络攻防、渗透…</li></ul><h3 id="2-6-视觉设计"><a href="#2-6-视觉设计" class="headerlink" title="2.6 视觉设计"></a>2.6 视觉设计</h3><ul><li>We need u！！！</li><li>主要方向：平面设计、UI设计…</li></ul><h3 id="2-7-GEEK"><a href="#2-7-GEEK" class="headerlink" title="2.7 GEEK"></a>2.7 GEEK</h3><ul><li>Geek组是Geek们的聚集地。在这里，我们设计精巧算法，编写高性能代码，处理海量数据。高性能计算、服务器运维、分布式系统、算法开发、AI、IOT…我们以算法和Linux为根基，致力于探索各种计算机技术。</li><li>主要方向：编写高性能的代码、处理海量数据、探索各种高性能中间件…</li></ul><h2 id="三、纳新流程"><a href="#三、纳新流程" class="headerlink" title="三、纳新流程"></a>三、纳新流程</h2><p><em>招新主要面向大一、大二同学，大三同学可将个人简历发送至底部邮箱，我们将尽快处理。</em></p><ol><li>线下宣讲会 (时间：<strong>2018.10.13</strong> 周六下午 <strong>14:30</strong>、地点：<del>计算机学院</del> <strong>校本部三食堂楼下创新创业孵化基地创咖</strong>)，交流会将包括以下内容：<ol><li>TECH F5VE 介绍</li><li>自由提问环节 (新人向老成员提问)</li><li>Sharing (技术分享)</li><li>活动总结<br><strong>Attention</strong></li><li>是否参与宣讲会不影响面试</li><li>活动时间及地点以<em>纳新群</em>通知为主</li><li>面试前请先进行网络报名</li></ol></li><li>线下面试 (时间：<strong>2018.10.14</strong> 周日下午 <strong>14:30</strong>、地点：<del>计算机学院</del> <strong>校本部三食堂楼下创新创业孵化基地创咖</strong>)</li><li>面试结束后3-5天内，请关注邮箱查收面试结果。</li><li>面试通过的同学将会进行为期<strong>2个月</strong>分阶段的考核，并根据你的表现综合评价后择优录取。</li></ol><h2 id="四、也许你内心有一些疑问"><a href="#四、也许你内心有一些疑问" class="headerlink" title="四、也许你内心有一些疑问"></a>四、也许你内心有一些疑问</h2><h3 id="（1）我进入TECH-F5VE之后要做什么？"><a href="#（1）我进入TECH-F5VE之后要做什么？" class="headerlink" title="（1）我进入TECH F5VE之后要做什么？"></a>（1）我进入TECH F5VE之后要做什么？</h3><ol><li>学习新的编程语言和使用的工具（语言任意，可以根据学院的教学计划选择，工具包括编译器和git等，所有内容<strong>自学</strong>）</li><li>尽可能去了解其他成员（更多指老成员）的技能栈；了解自己的兴趣方向并制定学习计划。</li><li>本学期末或下学期，新成员将以小组形式协作完成一个小型应用程序的开发，并进行展示与演讲。</li></ol><h3 id="（2）我在这里会得到什么？"><a href="#（2）我在这里会得到什么？" class="headerlink" title="（2）我在这里会得到什么？"></a>（2）我在这里会得到什么？</h3><ol><li>在这里你能找到志同道合的人，同样热爱一件事情，让你保持对计算机技术的热爱。</li><li>从别人身上获取你所不知道的知识</li><li>了解行业动态，技术的更替和相关的比赛事宜</li><li><strong>由于我们历届的成员已经进入到各个企业／学校内，因此群内会不时拥有内推机会！</strong></li></ol><h3 id="（3）我要付出什么？"><a href="#（3）我要付出什么？" class="headerlink" title="（3）我要付出什么？"></a>（3）我要付出什么？</h3><ol><li>热情与汗水！💦</li><li>Keep Open Mind， Keep in Touch！共享精神是TTECH F5VE强调的事情，学习不是一件孤独的事情，在TECH F5VE，我们要求互相学习。</li><li>时间 + 坚持…</li></ol><h3 id="（4）TECH5在纳新的过程中到底看什么？"><a href="#（4）TECH5在纳新的过程中到底看什么？" class="headerlink" title="（4）TECH5在纳新的过程中到底看什么？"></a>（4）TECH5在纳新的过程中到底看什么？</h3><ul><li>我们关注新人对新事物的热情与执着，对于技术没有畏惧的心理，也同样关注你是否愿意分享与交流。所有评审结果由组织主观打分和决定，不能保证决定是百分之百得正确，如果最后没有加入，请不要因此放弃对技术的热爱；如果加入了，就继续勇敢地坚持下去。</li><li>有一定的抗压能力，具有自主学习心态和能力；富有责任心和创新精神，团队合作能力强。</li></ul><h2 id="五、说在加入之前的话"><a href="#五、说在加入之前的话" class="headerlink" title="五、说在加入之前的话"></a>五、说在加入之前的话</h2><ul><li>TECH5是一个年轻有活力的组织，但是也纯粹出于自发，我们因为热爱一件事物而走在一起，将来不论在何处，也会继续下去，因此希望加入者们能将这一特点发扬光大。</li><li>对于布置的题目和任务无法及时完成的，会有一次提醒机会，望珍惜。特殊情况请提前与组织者联系。</li><li>长期（指1个月 - 3个月）处于“僵尸”状态，我们默认你并不愿意继续留在TECH5，为了防止误踢，我们会提前询问你。</li><li>TECH5现在的目标是成为江苏大学内有水平的兴趣爱好组织，提供一个平台给热爱计算机的同学进行交流，我们期待与您一同进步。</li><li>组内成员并无任何义务必须回答或帮助其他人，请在提问前善用搜索，对于提供解答的人说声”谢谢”，但是我们推荐大家把经过思考和琢磨的问题拿出来与大家分享与交流，以及在力所能及的范围内进行帮助。</li><li>鼓励自由言论，但是不要引起公愤。</li></ul><h2 id="六、联系方式"><a href="#六、联系方式" class="headerlink" title="六、联系方式"></a>六、联系方式</h2><p>TECH F5VE邮箱： <a href="mailto:tech5@techf5ve.com" target="_blank" rel="noopener">tech5@techf5ve.com</a>， 或 <a href="mailto:fred.zeng@techf5ve.com" target="_blank" rel="noopener">fred.zeng@techf5ve.com</a><br>FAQ群：<br><img src="/images/2018FAQ.JPG" alt="2018FAQ"></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>注意：该信息已经过期</strong></p><hr><h2 id="一、TECH-F5VE-TECH5-简介"><a href="#一、TECH-F5VE-TECH5-简介" class="headerlink" title="一、TECH F5VE / TECH5 简介"></a>一、TECH F5VE / TECH5 简介</h2><ul><li>TECH F5VE（或 TECH5）是由一群热爱计算机技术与艺术设计的学生自主发起的，不隶属于任何组织／部门／机构的技术向组织，其中发起人为Chi。TECH F5VE 于2014年秋成立，其取意为“技术”与“刷新”，即希望我们能够虚心且不断创新。团队从成立至今，始终坚持技术分享，不断进取的初衷，积极参与各类技术交流大会、创新型比赛（Google Developer Day、Hackthon etc.），<strong>Follow</strong> 最新最炫的技术。如果你也是一位来自江大的热爱技术／设计的同学，那么一定不要错过本次的纳新报名哦！</li><li>时间 <a>即日~2018年10月14日 周六</a></li><li><del><a href="#">报名入口</a></del>(已过期)</li></ul><a id="more"></a><h2 id="二、一些改变"><a href="#二、一些改变" class="headerlink" title="二、一些改变"></a>二、一些改变</h2><p>为了团队和成员未来更好的发展，从今年开始，我们对TECH F5VE的组织架构进行了进一步的划分，从原来 “程序应用／视觉设计／信息安全” 三个组别，划分为以下七个小组：</p><h3 id="2-1-移动应用"><a href="#2-1-移动应用" class="headerlink" title="2.1 移动应用"></a>2.1 移动应用</h3><ul><li>基于 Android/iOS 系统，上至日常使用的移动应用，下到系统底层的“黑科技”，我们不断发掘移动应用的魅力。</li><li>主要方向：原生APP开发、Flutter开发…</li></ul><h3 id="2-2-GAME"><a href="#2-2-GAME" class="headerlink" title="2.2 GAME"></a>2.2 GAME</h3><ul><li>Game组热衷于设计并创造游戏，探索并深入底层。我们致力于深入游戏的每个阶段，引擎是我们创造世界的工具，策划是我们描绘世界的蓝图。在这里，你能尽情制造快乐，收获快乐，享受快乐。</li><li>主要方向：计算机图形学、游戏客户端开发…</li></ul><h3 id="2-3-Web前端"><a href="#2-3-Web前端" class="headerlink" title="2.3 Web前端"></a>2.3 Web前端</h3><ul><li>Web有你想要的一切，以通过互联网丰富生活为主要目的，时刻与最新的趋势保持同步。浏览器是我们的世界，在这里我们可以尽情地毁灭和创造。如今我们的舞台拓展到桌面应用（Electron）、移动APP（React Native ），而不是仅仅局限于网页。</li><li>主要方向：网站页面开发、WebApp开发、微信公众平台开发…</li></ul><h3 id="2-4-Web后端"><a href="#2-4-Web后端" class="headerlink" title="2.4 Web后端"></a>2.4 Web后端</h3><ul><li>后端没有前端那般精美绝伦，让人赞叹的画面，但是后端却支撑起了千千万万的前端应用，我们负责编写运行于服务器的代码，这一部分不直接和用户打交道，但它是一个应用程序的核心：处理数据库中千百万条数据、构建高性能、安全稳健的后端程序以应对日益增长的流量和用户。</li><li>主要方向：网站后台开发、企业级应用开发、云服务…</li></ul><h3 id="2-5-信息安全"><a href="#2-5-信息安全" class="headerlink" title="2.5 信息安全"></a>2.5 信息安全</h3><ul><li>这是一个神秘的小组，ErRoR cOdE: 404。</li><li>主要方向：网络攻防、渗透…</li></ul><h3 id="2-6-视觉设计"><a href="#2-6-视觉设计" class="headerlink" title="2.6 视觉设计"></a>2.6 视觉设计</h3><ul><li>We need u！！！</li><li>主要方向：平面设计、UI设计…</li></ul><h3 id="2-7-GEEK"><a href="#2-7-GEEK" class="headerlink" title="2.7 GEEK"></a>2.7 GEEK</h3><ul><li>Geek组是Geek们的聚集地。在这里，我们设计精巧算法，编写高性能代码，处理海量数据。高性能计算、服务器运维、分布式系统、算法开发、AI、IOT…我们以算法和Linux为根基，致力于探索各种计算机技术。</li><li>主要方向：编写高性能的代码、处理海量数据、探索各种高性能中间件…</li></ul><h2 id="三、纳新流程"><a href="#三、纳新流程" class="headerlink" title="三、纳新流程"></a>三、纳新流程</h2><p><em>招新主要面向大一、大二同学，大三同学可将个人简历发送至底部邮箱，我们将尽快处理。</em></p><ol><li>线下宣讲会 (时间：<strong>2018.10.13</strong> 周六下午 <strong>14:30</strong>、地点：<del>计算机学院</del> <strong>校本部三食堂楼下创新创业孵化基地创咖</strong>)，交流会将包括以下内容：<ol><li>TECH F5VE 介绍</li><li>自由提问环节 (新人向老成员提问)</li><li>Sharing (技术分享)</li><li>活动总结</li></ol> <strong>Attention</strong><ol><li>是否参与宣讲会不影响面试</li><li>活动时间及地点以<em>纳新群</em>通知为主</li><li>面试前请先进行网络报名</li></ol></li><li>线下面试 (时间：<strong>2018.10.14</strong> 周日下午 <strong>14:30</strong>、地点：<del>计算机学院</del> <strong>校本部三食堂楼下创新创业孵化基地创咖</strong>)</li><li>面试结束后3-5天内，请关注邮箱查收面试结果。</li><li>面试通过的同学将会进行为期<strong>2个月</strong>分阶段的考核，并根据你的表现综合评价后择优录取。</li></ol><h2 id="四、也许你内心有一些疑问"><a href="#四、也许你内心有一些疑问" class="headerlink" title="四、也许你内心有一些疑问"></a>四、也许你内心有一些疑问</h2><h3 id="（1）我进入TECH-F5VE之后要做什么？"><a href="#（1）我进入TECH-F5VE之后要做什么？" class="headerlink" title="（1）我进入TECH F5VE之后要做什么？"></a>（1）我进入TECH F5VE之后要做什么？</h3><ol><li>学习新的编程语言和使用的工具（语言任意，可以根据学院的教学计划选择，工具包括编译器和git等，所有内容<strong>自学</strong>）</li><li>尽可能去了解其他成员（更多指老成员）的技能栈；了解自己的兴趣方向并制定学习计划。</li><li>本学期末或下学期，新成员将以小组形式协作完成一个小型应用程序的开发，并进行展示与演讲。</li></ol><h3 id="（2）我在这里会得到什么？"><a href="#（2）我在这里会得到什么？" class="headerlink" title="（2）我在这里会得到什么？"></a>（2）我在这里会得到什么？</h3><ol><li>在这里你能找到志同道合的人，同样热爱一件事情，让你保持对计算机技术的热爱。</li><li>从别人身上获取你所不知道的知识</li><li>了解行业动态，技术的更替和相关的比赛事宜</li><li><strong>由于我们历届的成员已经进入到各个企业／学校内，因此群内会不时拥有内推机会！</strong></li></ol><h3 id="（3）我要付出什么？"><a href="#（3）我要付出什么？" class="headerlink" title="（3）我要付出什么？"></a>（3）我要付出什么？</h3><ol><li>热情与汗水！💦</li><li>Keep Open Mind， Keep in Touch！共享精神是TTECH F5VE强调的事情，学习不是一件孤独的事情，在TECH F5VE，我们要求互相学习。</li><li>时间 + 坚持…</li></ol><h3 id="（4）TECH5在纳新的过程中到底看什么？"><a href="#（4）TECH5在纳新的过程中到底看什么？" class="headerlink" title="（4）TECH5在纳新的过程中到底看什么？"></a>（4）TECH5在纳新的过程中到底看什么？</h3><ul><li>我们关注新人对新事物的热情与执着，对于技术没有畏惧的心理，也同样关注你是否愿意分享与交流。所有评审结果由组织主观打分和决定，不能保证决定是百分之百得正确，如果最后没有加入，请不要因此放弃对技术的热爱；如果加入了，就继续勇敢地坚持下去。</li><li>有一定的抗压能力，具有自主学习心态和能力；富有责任心和创新精神，团队合作能力强。</li></ul><h2 id="五、说在加入之前的话"><a href="#五、说在加入之前的话" class="headerlink" title="五、说在加入之前的话"></a>五、说在加入之前的话</h2><ul><li>TECH5是一个年轻有活力的组织，但是也纯粹出于自发，我们因为热爱一件事物而走在一起，将来不论在何处，也会继续下去，因此希望加入者们能将这一特点发扬光大。</li><li>对于布置的题目和任务无法及时完成的，会有一次提醒机会，望珍惜。特殊情况请提前与组织者联系。</li><li>长期（指1个月 - 3个月）处于“僵尸”状态，我们默认你并不愿意继续留在TECH5，为了防止误踢，我们会提前询问你。</li><li>TECH5现在的目标是成为江苏大学内有水平的兴趣爱好组织，提供一个平台给热爱计算机的同学进行交流，我们期待与您一同进步。</li><li>组内成员并无任何义务必须回答或帮助其他人，请在提问前善用搜索，对于提供解答的人说声”谢谢”，但是我们推荐大家把经过思考和琢磨的问题拿出来与大家分享与交流，以及在力所能及的范围内进行帮助。</li><li>鼓励自由言论，但是不要引起公愤。</li></ul><h2 id="六、联系方式"><a href="#六、联系方式" class="headerlink" title="六、联系方式"></a>六、联系方式</h2><p>TECH F5VE邮箱： <a href="mailto:tech5@techf5ve.com">tech5@techf5ve.com</a>， 或 <a href="mailto:fred.zeng@techf5ve.com">fred.zeng@techf5ve.com</a><br>FAQ群：<br><img src="/images/2018FAQ.JPG" alt="2018FAQ"></p>]]></content>
     
-    <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&quot;一、TECH-F5VE-TECH5-简介&quot;&gt;&lt;a href=&quot;#一、TECH-F5VE-TECH5-简介&quot; class=&quot;headerlink&quot; title=&quot;一、TECH F5VE / TECH5 简介&quot;&gt;&lt;/a&gt;一、TECH F5VE / TECH5 简介&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;TECH F5VE（或 TECH5）是由一群热爱计算机技术与艺术设计的学生自主发起的，不隶属于任何组织／部门／机构的技术向组织，其中发起人为Chi。TECH F5VE 于2014年秋成立，其取意为“技术”与“刷新”，即希望我们能够虚心且不断创新。团队从成立至今，始终坚持技术分享，不断进取的初衷，积极参与各类技术交流大会、创新型比赛（Google Developer Day、Hackthon etc.），&lt;strong&gt;Follow&lt;/strong&gt; 最新最炫的技术。如果你也是一位来自江大的热爱技术／设计的同学，那么一定不要错过本次的纳新报名哦！&lt;/li&gt;
 &lt;li&gt;时间 &lt;a&gt;即日~2018年10月14日 周六&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;&lt;a href=&quot;#&quot;&gt;报名入口&lt;/a&gt;&lt;/del&gt;(已过期)&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
+&lt;/ul&gt;</summary>
     
     
-      <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
+    
+    
+    <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
     
   </entry>
   
@@ -105,24 +124,23 @@
     <link href="https://blog.tech5ve.com/2017/10/01/2017Autumn1/"/>
     <id>https://blog.tech5ve.com/2017/10/01/2017Autumn1/</id>
     <published>2017-10-01T01:56:52.000Z</published>
-    <updated>2019-10-19T06:25:50.686Z</updated>
+    <updated>2020-10-15T01:34:06.797Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>注意：该信息已经过期</strong></p><hr><h2 id="一-、TECH-F5VE-TECH5-简介"><a href="#一-、TECH-F5VE-TECH5-简介" class="headerlink" title="一 、TECH F5VE / TECH5 简介"></a>一 、TECH F5VE / TECH5 简介</h2><ul><li>TECH F5VE（或TECH 5），意指“技术”与“刷新”。它是一个由学生自发组织的科技与设计向组织。组织于2014年秋天成立，我们热爱计算机、热爱技术、追求自由。现组织内共吸纳了26位来自不同学院的同学（计算机学院，电气学院，理学院，艺术学院，京江学院），在校期间多次在各种学科竞赛中获取佳绩，就职经历涵盖Goldman Sachs，网易，阿里巴巴， 绿盟，Intel等国内外知名企业。如果你也是一位来自江大的热爱技术／设计的同学，那么一定不要错过本次的纳新报名哦！</li><li>时间：<a>~2017年10月08日</a></li><li><del><a href="#">报名入口</a></del>(已过期)</li></ul><a id="more"></a><h2 id="二-、-纳新流程"><a href="#二-、-纳新流程" class="headerlink" title="二 、 纳新流程"></a>二 、 纳新流程</h2><ol><li>线下交流会（时间：<strong>2017.10.14</strong> 周六、地点：计算机学院），交流会将包括以下内容：<ol><li>新人自我介绍(3-5 mins)</li><li>原组织成员向新人进行提问互动（届时将邀请学院老师和辅导员进行辅助指导与点评，1-2个问题）</li><li>由新人向原成员提问（感兴趣的任何方面）</li></ol></li><li>交流会结束之后3-5天内，请关注邮箱查收录取信息。</li></ol><h2 id="三-、也许你的内心有一些疑问："><a href="#三-、也许你的内心有一些疑问：" class="headerlink" title="三 、也许你的内心有一些疑问："></a>三 、也许你的内心有一些疑问：</h2><h3 id="（1）-我进入TECH-F5VE之后要做什么？"><a href="#（1）-我进入TECH-F5VE之后要做什么？" class="headerlink" title="（1） 我进入TECH F5VE之后要做什么？"></a>（1） 我进入TECH F5VE之后要做什么？</h3><ol><li>平均两周将要解决并提交一道算法题（算法题由现任组织者发出，解决方式不限，但要求消化和理解），并由组织者定期展开交流会。特殊情况者请于本次的组织者联系。</li><li>学习新的编程语言和使用的工具（语言任意，可以根据学院的教学计划选择，工具包括编译器和git等，所有内容<strong>自学</strong>）</li><li>尽可能去了解其他成员（更多指老成员）的技能栈；了解自己的兴趣方向并制定学习计划。</li><li>本学期末或下学期，新成员将以小组形式协作完成一个小型应用程序的开发，并进行展示与演讲。</li></ol><h3 id="（2）我在这里会得到什么？"><a href="#（2）我在这里会得到什么？" class="headerlink" title="（2）我在这里会得到什么？"></a>（2）我在这里会得到什么？</h3><ol><li>在这里你能找到志同道合的人，同样热爱一件事情，让你保持对计算机技术的热爱。</li><li>从别人身上获取你所不知道的知识</li><li>了解行业动态，技术的更替和相关的比赛事宜</li><li><strong>由于我们第一届的成员已经进入到各个企业／学校内，因此群内会不时拥有内推机会！</strong></li></ol><h3 id="（3）我要付出什么？"><a href="#（3）我要付出什么？" class="headerlink" title="（3）我要付出什么？"></a>（3）我要付出什么？</h3><ol><li>热情与汗水！💦</li><li>Keep Open Mind， Keep in Touch！共享精神是TECH 5强调的事情，学习不是一件孤独的事情，在TECH 5，我们要求互相学习。</li></ol><h3 id="（4）TECH5在纳新的过程中到底看什么？"><a href="#（4）TECH5在纳新的过程中到底看什么？" class="headerlink" title="（4）TECH5在纳新的过程中到底看什么？"></a>（4）TECH5在纳新的过程中到底看什么？</h3><ul><li>我们关注新人对新事物的热情与执着，对于技术没有畏惧的心理，也同样关注你是否愿意分享与交流。所有评审结果由组织主观打分和决定，不能保证决定是百分之百得正确，如果最后没有加入，请不要因此放弃对技术的热爱；如果加入了，就继续勇敢地坚持下去。</li></ul><h2 id="四-、-讲在加入之前的话"><a href="#四-、-讲在加入之前的话" class="headerlink" title="四 、 讲在加入之前的话"></a>四 、 讲在加入之前的话</h2><ul><li>TECH5是一个年轻有活力的组织，但是也纯粹出于自发，我们因为热爱一件事物而走在一起，将来不论在何处，也会继续下去，因此希望加入者们能将这一特点发扬光大。</li><li>对于布置的题目和任务无法及时完成的，会有一次提醒机会，望珍惜。特殊情况请提前与组织者联系。</li><li>长期（指1个月 - 3个月）处于“僵尸”状态，我们默认你并不愿意继续留在TECH5，为了防止误踢，我们会提前询问你。</li><li>TECH5现在的目标是成为江苏大学内有水平的兴趣爱好组织，提供一个平台给热爱计算机的同学进行交流，我们期待与您一同进步。</li><li>组内成员并无任何义务必须回答或帮助其他人，请在提问前善用搜索，对于提供解答的人说声”谢谢”，但是我们推荐大家把经过思考和琢磨的问题拿出来与大家分享与交流，以及在力所能及的范围内进行帮助。</li><li>鼓励自由言论，但是不要引起公愤。</li></ul><h2 id="五-、联系方式"><a href="#五-、联系方式" class="headerlink" title="五 、联系方式"></a>五 、联系方式</h2><p>马同学， QQ : 1624912549<br>曾同学， QQ: 979738295<br>TECH 5邮箱： <a href="mailto:tech5@techf5ve.com" target="_blank" rel="noopener">tech5@techf5ve.com</a>， 或 <a href="mailto:fred.zeng@techf5ve.com" target="_blank" rel="noopener">fred.zeng@techf5ve.com</a><br>FAQ群：<br><img src="/images/2017FAQ.png" alt="2017FAQ"></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>注意：该信息已经过期</strong></p><hr><h2 id="一-、TECH-F5VE-TECH5-简介"><a href="#一-、TECH-F5VE-TECH5-简介" class="headerlink" title="一 、TECH F5VE / TECH5 简介"></a>一 、TECH F5VE / TECH5 简介</h2><ul><li>TECH F5VE（或TECH 5），意指“技术”与“刷新”。它是一个由学生自发组织的科技与设计向组织。组织于2014年秋天成立，我们热爱计算机、热爱技术、追求自由。现组织内共吸纳了26位来自不同学院的同学（计算机学院，电气学院，理学院，艺术学院，京江学院），在校期间多次在各种学科竞赛中获取佳绩，就职经历涵盖Goldman Sachs，网易，阿里巴巴， 绿盟，Intel等国内外知名企业。如果你也是一位来自江大的热爱技术／设计的同学，那么一定不要错过本次的纳新报名哦！</li><li>时间：<a>~2017年10月08日</a></li><li><del><a href="#">报名入口</a></del>(已过期)</li></ul><a id="more"></a><h2 id="二-、-纳新流程"><a href="#二-、-纳新流程" class="headerlink" title="二 、 纳新流程"></a>二 、 纳新流程</h2><ol><li>线下交流会（时间：<strong>2017.10.14</strong> 周六、地点：计算机学院），交流会将包括以下内容：<ol><li>新人自我介绍(3-5 mins)</li><li>原组织成员向新人进行提问互动（届时将邀请学院老师和辅导员进行辅助指导与点评，1-2个问题）</li><li>由新人向原成员提问（感兴趣的任何方面）</li></ol></li><li>交流会结束之后3-5天内，请关注邮箱查收录取信息。</li></ol><h2 id="三-、也许你的内心有一些疑问："><a href="#三-、也许你的内心有一些疑问：" class="headerlink" title="三 、也许你的内心有一些疑问："></a>三 、也许你的内心有一些疑问：</h2><h3 id="（1）-我进入TECH-F5VE之后要做什么？"><a href="#（1）-我进入TECH-F5VE之后要做什么？" class="headerlink" title="（1） 我进入TECH F5VE之后要做什么？"></a>（1） 我进入TECH F5VE之后要做什么？</h3><ol><li>平均两周将要解决并提交一道算法题（算法题由现任组织者发出，解决方式不限，但要求消化和理解），并由组织者定期展开交流会。特殊情况者请于本次的组织者联系。</li><li>学习新的编程语言和使用的工具（语言任意，可以根据学院的教学计划选择，工具包括编译器和git等，所有内容<strong>自学</strong>）</li><li>尽可能去了解其他成员（更多指老成员）的技能栈；了解自己的兴趣方向并制定学习计划。</li><li>本学期末或下学期，新成员将以小组形式协作完成一个小型应用程序的开发，并进行展示与演讲。</li></ol><h3 id="（2）我在这里会得到什么？"><a href="#（2）我在这里会得到什么？" class="headerlink" title="（2）我在这里会得到什么？"></a>（2）我在这里会得到什么？</h3><ol><li>在这里你能找到志同道合的人，同样热爱一件事情，让你保持对计算机技术的热爱。</li><li>从别人身上获取你所不知道的知识</li><li>了解行业动态，技术的更替和相关的比赛事宜</li><li><strong>由于我们第一届的成员已经进入到各个企业／学校内，因此群内会不时拥有内推机会！</strong></li></ol><h3 id="（3）我要付出什么？"><a href="#（3）我要付出什么？" class="headerlink" title="（3）我要付出什么？"></a>（3）我要付出什么？</h3><ol><li>热情与汗水！💦</li><li>Keep Open Mind， Keep in Touch！共享精神是TECH 5强调的事情，学习不是一件孤独的事情，在TECH 5，我们要求互相学习。</li></ol><h3 id="（4）TECH5在纳新的过程中到底看什么？"><a href="#（4）TECH5在纳新的过程中到底看什么？" class="headerlink" title="（4）TECH5在纳新的过程中到底看什么？"></a>（4）TECH5在纳新的过程中到底看什么？</h3><ul><li>我们关注新人对新事物的热情与执着，对于技术没有畏惧的心理，也同样关注你是否愿意分享与交流。所有评审结果由组织主观打分和决定，不能保证决定是百分之百得正确，如果最后没有加入，请不要因此放弃对技术的热爱；如果加入了，就继续勇敢地坚持下去。</li></ul><h2 id="四-、-讲在加入之前的话"><a href="#四-、-讲在加入之前的话" class="headerlink" title="四 、 讲在加入之前的话"></a>四 、 讲在加入之前的话</h2><ul><li>TECH5是一个年轻有活力的组织，但是也纯粹出于自发，我们因为热爱一件事物而走在一起，将来不论在何处，也会继续下去，因此希望加入者们能将这一特点发扬光大。</li><li>对于布置的题目和任务无法及时完成的，会有一次提醒机会，望珍惜。特殊情况请提前与组织者联系。</li><li>长期（指1个月 - 3个月）处于“僵尸”状态，我们默认你并不愿意继续留在TECH5，为了防止误踢，我们会提前询问你。</li><li>TECH5现在的目标是成为江苏大学内有水平的兴趣爱好组织，提供一个平台给热爱计算机的同学进行交流，我们期待与您一同进步。</li><li>组内成员并无任何义务必须回答或帮助其他人，请在提问前善用搜索，对于提供解答的人说声”谢谢”，但是我们推荐大家把经过思考和琢磨的问题拿出来与大家分享与交流，以及在力所能及的范围内进行帮助。</li><li>鼓励自由言论，但是不要引起公愤。</li></ul><h2 id="五-、联系方式"><a href="#五-、联系方式" class="headerlink" title="五 、联系方式"></a>五 、联系方式</h2><p>马同学， QQ : 1624912549<br>曾同学， QQ: 979738295<br>TECH 5邮箱： <a href="mailto:tech5@techf5ve.com">tech5@techf5ve.com</a>， 或 <a href="mailto:fred.zeng@techf5ve.com">fred.zeng@techf5ve.com</a><br>FAQ群：<br><img src="/images/2017FAQ.png" alt="2017FAQ"></p>]]></content>
     
-    <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&quot;一-、TECH-F5VE-TECH5-简介&quot;&gt;&lt;a href=&quot;#一-、TECH-F5VE-TECH5-简介&quot; class=&quot;headerlink&quot; title=&quot;一 、TECH F5VE / TECH5 简介&quot;&gt;&lt;/a&gt;一 、TECH F5VE / TECH5 简介&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;TECH F5VE（或TECH 5），意指“技术”与“刷新”。它是一个由学生自发组织的科技与设计向组织。组织于2014年秋天成立，我们热爱计算机、热爱技术、追求自由。现组织内共吸纳了26位来自不同学院的同学（计算机学院，电气学院，理学院，艺术学院，京江学院），在校期间多次在各种学科竞赛中获取佳绩，就职经历涵盖Goldman Sachs，网易，阿里巴巴， 绿盟，Intel等国内外知名企业。如果你也是一位来自江大的热爱技术／设计的同学，那么一定不要错过本次的纳新报名哦！&lt;/li&gt;
 &lt;li&gt;时间：&lt;a&gt;~2017年10月08日&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;&lt;a href=&quot;#&quot;&gt;报名入口&lt;/a&gt;&lt;/del&gt;(已过期)&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
+&lt;/ul&gt;</summary>
     
     
-      <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
+    
+    
+    <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
     
   </entry>
   
@@ -131,22 +149,21 @@
     <link href="https://blog.tech5ve.com/2017/09/15/2017Autumn2/"/>
     <id>https://blog.tech5ve.com/2017/09/15/2017Autumn2/</id>
     <published>2017-09-15T15:01:07.000Z</published>
-    <updated>2019-10-19T06:25:50.686Z</updated>
+    <updated>2020-10-15T01:34:06.799Z</updated>
     
     <content type="html"><![CDATA[<p><strong>注意：该信息已经过期</strong></p><hr><p>TECH F5VE (简称TF5), 是一个由学生自发组成的<strong>科技与设计向组织</strong>，现向全校同学发起2017年秋季纳新活动，望能得到广大同学的积极参与。</p><h2 id="报名时间"><a href="#报名时间" class="headerlink" title="报名时间"></a>报名时间</h2><p>即日 ~ 2017年10月08日</p><h2 id="报名地址"><a href="#报名地址" class="headerlink" title="报名地址"></a>报名地址</h2><p><del><a href="#">点击此处转入</a></del>(已过期)</p><a id="more"></a><h2 id="目标对象"><a href="#目标对象" class="headerlink" title="目标对象"></a>目标对象</h2><p>我们希望你能具备以下基本条件：</p><ul><li>对计算机科学有浓烈兴趣</li><li>对软件应用有浓烈兴趣</li><li>喜欢折腾，不断探索自己的上限与边界</li><li>有毅力，持之以恒</li></ul><h2 id="联系邮箱"><a href="#联系邮箱" class="headerlink" title="联系邮箱"></a>联系邮箱</h2><p>tech5<a>@</a>techf5ve.com</p>]]></content>
     
-    <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;TECH F5VE (简称TF5), 是一个由学生自发组成的&lt;strong&gt;科技与设计向组织&lt;/strong&gt;，现向全校同学发起2017年秋季纳新活动，望能得到广大同学的积极参与。&lt;/p&gt;
 &lt;h2 id=&quot;报名时间&quot;&gt;&lt;a href=&quot;#报名时间&quot; class=&quot;headerlink&quot; title=&quot;报名时间&quot;&gt;&lt;/a&gt;报名时间&lt;/h2&gt;&lt;p&gt;即日 ~ 2017年10月08日&lt;/p&gt;
-&lt;h2 id=&quot;报名地址&quot;&gt;&lt;a href=&quot;#报名地址&quot; class=&quot;headerlink&quot; title=&quot;报名地址&quot;&gt;&lt;/a&gt;报名地址&lt;/h2&gt;&lt;p&gt;&lt;del&gt;&lt;a href=&quot;#&quot;&gt;点击此处转入&lt;/a&gt;&lt;/del&gt;(已过期)&lt;/p&gt;
-    
-    </summary>
+&lt;h2 id=&quot;报名地址&quot;&gt;&lt;a href=&quot;#报名地址&quot; class=&quot;headerlink&quot; title=&quot;报名地址&quot;&gt;&lt;/a&gt;报名地址&lt;/h2&gt;&lt;p&gt;&lt;del&gt;&lt;a href=&quot;#&quot;&gt;点击此处转入&lt;/a&gt;&lt;/del&gt;(已过期)&lt;/p&gt;</summary>
     
     
-      <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
+    
+    
+    <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
     
   </entry>
   
@@ -155,68 +172,65 @@
     <link href="https://blog.tech5ve.com/2016/09/04/2016Autumn/"/>
     <id>https://blog.tech5ve.com/2016/09/04/2016Autumn/</id>
     <published>2016-09-04T08:11:23.000Z</published>
-    <updated>2019-10-19T06:25:50.685Z</updated>
+    <updated>2020-10-15T01:34:06.796Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>注意：该信息已经过期</strong></p><hr><p>TECH F5VE (简称TF5), 是一个由学生自发组成的<strong>科技与设计向组织</strong>，现向全校同学发起2016年秋季纳新活动，望能得到广大同学的积极参与。</p><h2 id="报名时间"><a href="#报名时间" class="headerlink" title="报名时间"></a>报名时间</h2><p>即日 ~ 2016年10月01日</p><h2 id="报名地址"><a href="#报名地址" class="headerlink" title="报名地址"></a>报名地址</h2><p><del><a href="#">点击此处转入</a></del>(已过期)</p><a id="more"></a><h2 id="目标对象"><a href="#目标对象" class="headerlink" title="目标对象"></a>目标对象</h2><p>我们希望您能具备以下基本条件:</p><ol><li><strong>十分热爱</strong>计算机或设计</li><li>愿意结交新朋友</li></ol><p>额外加分项目:</p><ol><li>已有编程基础, 例如: 会使用某种编程语言；</li><li>对摄影，平面设计已有实践；</li><li>热衷于折腾硬件；</li><li>(参与) 开发过软件/硬件；</li><li>发现江雪的BUG</li></ol><h2 id="具体内容"><a href="#具体内容" class="headerlink" title="具体内容"></a>具体内容</h2><p>TF5分为3个组别：程序应用／艺术设计／信息安全，您可选择自己喜爱的一个或多个组别，通过<a href="#"><del>在线报名</del></a>，或者投递纸质信息到<strong>江苏大学创业孵化基地25号</strong>。</p><h2 id="您能得到什么"><a href="#您能得到什么" class="headerlink" title="您能得到什么"></a>您能得到什么</h2><p>结识众多优秀的开发者，见识独到的设计者，勇敢的创造者，与他们交换思想，共同学习。</p><h2 id="关于TECH-F5VE"><a href="#关于TECH-F5VE" class="headerlink" title="关于TECH F5VE"></a>关于TECH F5VE</h2><p>想了解更多？点击<a href="http://techf5ve.com/blog/dist/2014/02/28/%E5%85%B3%E4%BA%8ETECH-F5VE/" target="_blank" rel="noopener">这里</a>, 或<a href="http://techf5ve.com" target="_blank" rel="noopener">那里</a></p><h2 id="联系邮箱"><a href="#联系邮箱" class="headerlink" title="联系邮箱"></a>联系邮箱</h2><p>chi<a>@</a>techf5ve.com</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>注意：该信息已经过期</strong></p><hr><p>TECH F5VE (简称TF5), 是一个由学生自发组成的<strong>科技与设计向组织</strong>，现向全校同学发起2016年秋季纳新活动，望能得到广大同学的积极参与。</p><h2 id="报名时间"><a href="#报名时间" class="headerlink" title="报名时间"></a>报名时间</h2><p>即日 ~ 2016年10月01日</p><h2 id="报名地址"><a href="#报名地址" class="headerlink" title="报名地址"></a>报名地址</h2><p><del><a href="#">点击此处转入</a></del>(已过期)</p><a id="more"></a><h2 id="目标对象"><a href="#目标对象" class="headerlink" title="目标对象"></a>目标对象</h2><p>我们希望您能具备以下基本条件:</p><ol><li><strong>十分热爱</strong>计算机或设计</li><li>愿意结交新朋友</li></ol><p>额外加分项目:</p><ol><li>已有编程基础, 例如: 会使用某种编程语言；</li><li>对摄影，平面设计已有实践；</li><li>热衷于折腾硬件；</li><li>(参与) 开发过软件/硬件；</li><li>发现江雪的BUG</li></ol><h2 id="具体内容"><a href="#具体内容" class="headerlink" title="具体内容"></a>具体内容</h2><p>TF5分为3个组别：程序应用／艺术设计／信息安全，您可选择自己喜爱的一个或多个组别，通过<a href="#"><del>在线报名</del></a>，或者投递纸质信息到<strong>江苏大学创业孵化基地25号</strong>。</p><h2 id="您能得到什么"><a href="#您能得到什么" class="headerlink" title="您能得到什么"></a>您能得到什么</h2><p>结识众多优秀的开发者，见识独到的设计者，勇敢的创造者，与他们交换思想，共同学习。</p><h2 id="关于TECH-F5VE"><a href="#关于TECH-F5VE" class="headerlink" title="关于TECH F5VE"></a>关于TECH F5VE</h2><p>想了解更多？点击<a href="http://techf5ve.com/blog/dist/2014/02/28/%E5%85%B3%E4%BA%8ETECH-F5VE/">这里</a>, 或<a href="http://techf5ve.com/">那里</a></p><h2 id="联系邮箱"><a href="#联系邮箱" class="headerlink" title="联系邮箱"></a>联系邮箱</h2><p>chi<a>@</a>techf5ve.com</p>]]></content>
     
-    <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;TECH F5VE (简称TF5), 是一个由学生自发组成的&lt;strong&gt;科技与设计向组织&lt;/strong&gt;，现向全校同学发起2016年秋季纳新活动，望能得到广大同学的积极参与。&lt;/p&gt;
 &lt;h2 id=&quot;报名时间&quot;&gt;&lt;a href=&quot;#报名时间&quot; class=&quot;headerlink&quot; title=&quot;报名时间&quot;&gt;&lt;/a&gt;报名时间&lt;/h2&gt;&lt;p&gt;即日 ~ 2016年10月01日&lt;/p&gt;
-&lt;h2 id=&quot;报名地址&quot;&gt;&lt;a href=&quot;#报名地址&quot; class=&quot;headerlink&quot; title=&quot;报名地址&quot;&gt;&lt;/a&gt;报名地址&lt;/h2&gt;&lt;p&gt;&lt;del&gt;&lt;a href=&quot;#&quot;&gt;点击此处转入&lt;/a&gt;&lt;/del&gt;(已过期)&lt;/p&gt;
-    
-    </summary>
+&lt;h2 id=&quot;报名地址&quot;&gt;&lt;a href=&quot;#报名地址&quot; class=&quot;headerlink&quot; title=&quot;报名地址&quot;&gt;&lt;/a&gt;报名地址&lt;/h2&gt;&lt;p&gt;&lt;del&gt;&lt;a href=&quot;#&quot;&gt;点击此处转入&lt;/a&gt;&lt;/del&gt;(已过期)&lt;/p&gt;</summary>
     
     
-      <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
+    
+    
+    <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
     
   </entry>
   
   <entry>
     <title>江雪BBS…！</title>
     <link href="https://blog.tech5ve.com/2016/02/28/%E6%B1%9F%E9%9B%AABBS/"/>
-    <id>https://blog.tech5ve.com/2016/02/28/江雪BBS/</id>
+    <id>https://blog.tech5ve.com/2016/02/28/%E6%B1%9F%E9%9B%AABBS/</id>
     <published>2016-02-28T05:32:02.000Z</published>
-    <updated>2019-10-19T06:25:50.686Z</updated>
+    <updated>2020-10-15T01:34:06.803Z</updated>
     
     <content type="html"><![CDATA[<p><strong>注意：该信息已经过期</strong></p><hr><p>想要一个安静的，专注的校园论坛，找回曾经那个BBS叱咤风云的感觉？</p><a id="more"></a><p>不如自己动手，丰衣足食。</p><p><a href="#"><del>点我点我点我</del></a></p><p>论坛尚在测试中，任何问题，请帮助提交至<a href="#"><del>小黑屋</del></a></p>]]></content>
     
-    <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;想要一个安静的，专注的校园论坛，找回曾经那个BBS叱咤风云的感觉？&lt;/p&gt;
-    
-    </summary>
+&lt;p&gt;想要一个安静的，专注的校园论坛，找回曾经那个BBS叱咤风云的感觉？&lt;/p&gt;</summary>
     
     
-      <category term="Product" scheme="https://blog.tech5ve.com/tags/Product/"/>
+    
+    
+    <category term="Product" scheme="https://blog.tech5ve.com/tags/Product/"/>
     
   </entry>
   
   <entry>
     <title>江雪使用说明</title>
     <link href="https://blog.tech5ve.com/2015/12/05/%E6%B1%9F%E9%9B%AA%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/"/>
-    <id>https://blog.tech5ve.com/2015/12/05/江雪使用说明/</id>
+    <id>https://blog.tech5ve.com/2015/12/05/%E6%B1%9F%E9%9B%AA%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/</id>
     <published>2015-12-05T04:00:23.000Z</published>
-    <updated>2019-10-19T06:25:50.686Z</updated>
+    <updated>2020-10-15T01:34:06.804Z</updated>
     
-    <content type="html"><![CDATA[<p>(更新于2016-10-20 00:18:23)</p><p>江雪是针对江苏大学校园服务的工具类APP</p><p><a href="#"><del>下载地址</del></a></p><h2 id="0-使用前须知"><a href="#0-使用前须知" class="headerlink" title="0. 使用前须知"></a>0. 使用前须知</h2><p>您的密码, 课程, 成绩等个人资料保存且仅保存在本地, 该APP仅记录您的学号(用作开发者了解该APP是否需要继续维护).</p><p><strong>提醒：应当注意到一切信息以<a href="http://my.ujs.edu.cn" target="_blank" rel="noopener">江大信息门户</a>为准，江雪只作为一个方便信息获取渠道的工具而存在。一切因为信息不准确而造成的损失等，由其自行承担，与江雪及其开发人员无关。</strong></p><a id="more"></a><h2 id="1-功能"><a href="#1-功能" class="headerlink" title="1. 功能"></a>1. 功能</h2><table><thead><tr><th style="text-align:center">服务</th><th style="text-align:center">说明</th></tr></thead><tbody><tr><td style="text-align:center">钱包</td><td style="text-align:center">显示一卡通余额</td></tr><tr><td style="text-align:center">课表</td><td style="text-align:center">保存您这学期的课程表，当到了新的学期，使用<strong>刷新功能</strong>获取最新学期的课表</td></tr><tr><td style="text-align:center">图书</td><td style="text-align:center">显示借阅的图书名称，借阅时期及归还日期，当借阅图书后，使用<strong>刷新功能</strong>获取最新资料</td></tr><tr><td style="text-align:center">学业</td><td style="text-align:center">显示您获取的学分，总需要学分，历年各个课程的成绩/学分/绩点</td></tr><tr><td style="text-align:center">考试</td><td style="text-align:center">显示您的考试安排</td></tr><tr><td style="text-align:center">电费</td><td style="text-align:center">查询电费使用情况</td></tr><tr><td style="text-align:center">自行车</td><td style="text-align:center">查询校园内自行车数量(暂时Android限定)</td></tr><tr><td style="text-align:center">公交</td><td style="text-align:center">查询镇江市公交位置及停靠站(暂时Android限定)</td></tr></tbody></table><h2 id="2-已知问题及解决办法"><a href="#2-已知问题及解决办法" class="headerlink" title="2. 已知问题及解决办法"></a>2. 已知问题及解决办法</h2><p><strong>2.1. 我的课程表是空白的</strong></p><blockquote><p>请尝试刷新/重新登录。如果刷新后依旧如此，请稍候再试。</p><p>另外，大一没有个人课表，课表来自班级推荐课表。有时候您的课表服务可能在信息门户上处于禁用状&gt;态（例如您没有完成教学投票，而造成了关闭），请在这种情况下核对您的信息门户。</p></blockquote><p><strong>2.2. 钱包余额不准确</strong></p><blockquote><p>钱包（一卡通）余额来自江大信息门户的首页，此网站上有延时，因此抓取新内容时可能也会有延时问&gt;题。</p></blockquote><p><strong>2.3. 我的成绩都是0</strong></p><blockquote><ol><li>新生刚入学没有自己的成绩单</li><li>请核对您的账号在信息门户中该服务是否可用</li><li>给我们留言吧! <a href="#"><del>论坛跟帖</del></a></li></ol></blockquote><h2 id="3-更多问题及建议"><a href="#3-更多问题及建议" class="headerlink" title="3. 更多问题及建议"></a>3. 更多问题及建议</h2><p>请投递至邮箱: app<a>@</a>techf5ve.com</p><p>或直接在<a href="#"><del>论坛跟帖</del></a></p><h2 id="4-鸣谢"><a href="#4-鸣谢" class="headerlink" title="4. 鸣谢"></a>4. 鸣谢</h2><p>项目由TECH F5VE的CHI发起，期间得到了成员们的支持，<br>因此感谢以下成员参与/开发。</p><hr><table><thead><tr><th style="text-align:center">策划</th><th style="text-align:center">CHI</th></tr></thead><tbody><tr><td style="text-align:center">iOS</td><td style="text-align:center">CHI</td></tr><tr><td style="text-align:center">Android</td><td style="text-align:center">FredZeng</td></tr><tr><td style="text-align:center">设计</td><td style="text-align:center">CHI, YL Lei</td></tr><tr><td style="text-align:center">信息获取</td><td style="text-align:center">fallenangel, ALKAID</td></tr></tbody></table><p>此外，</p><ol><li>特别感谢 <strong>QAQ</strong> 提议的应用名称, 江雪的名字由他提供；</li><li>特别感谢 <strong>小贼</strong> 在应用测试过程中提供的无私帮助与建议;</li><li>特别感谢 <strong>您</strong>, 愿意尝试使用它。</li></ol><h2 id="5-支持"><a href="#5-支持" class="headerlink" title="5. 支持"></a>5. 支持</h2><p>感谢<strong>江苏大学党委宣传部</strong>的支持，现在江雪的链接已经出现在江苏大学官方微信订阅号上，可以通过扫描下方的链接，获取下载途径。</p><!-- ![](http://7xngrd.com1.z0.glb.clouddn.com/ci_ujsNO_1_wechat.jpg) -->]]></content>
+    <content type="html"><![CDATA[<p>(更新于2016-10-20 00:18:23)</p><p>江雪是针对江苏大学校园服务的工具类APP</p><p><a href="#"><del>下载地址</del></a></p><h2 id="0-使用前须知"><a href="#0-使用前须知" class="headerlink" title="0. 使用前须知"></a>0. 使用前须知</h2><p>您的密码, 课程, 成绩等个人资料保存且仅保存在本地, 该APP仅记录您的学号(用作开发者了解该APP是否需要继续维护).</p><p><strong>提醒：应当注意到一切信息以<a href="http://my.ujs.edu.cn/">江大信息门户</a>为准，江雪只作为一个方便信息获取渠道的工具而存在。一切因为信息不准确而造成的损失等，由其自行承担，与江雪及其开发人员无关。</strong></p><a id="more"></a><h2 id="1-功能"><a href="#1-功能" class="headerlink" title="1. 功能"></a>1. 功能</h2><table><thead><tr><th align="center">服务</th><th align="center">说明</th></tr></thead><tbody><tr><td align="center">钱包</td><td align="center">显示一卡通余额</td></tr><tr><td align="center">课表</td><td align="center">保存您这学期的课程表，当到了新的学期，使用<strong>刷新功能</strong>获取最新学期的课表</td></tr><tr><td align="center">图书</td><td align="center">显示借阅的图书名称，借阅时期及归还日期，当借阅图书后，使用<strong>刷新功能</strong>获取最新资料</td></tr><tr><td align="center">学业</td><td align="center">显示您获取的学分，总需要学分，历年各个课程的成绩/学分/绩点</td></tr><tr><td align="center">考试</td><td align="center">显示您的考试安排</td></tr><tr><td align="center">电费</td><td align="center">查询电费使用情况</td></tr><tr><td align="center">自行车</td><td align="center">查询校园内自行车数量(暂时Android限定)</td></tr><tr><td align="center">公交</td><td align="center">查询镇江市公交位置及停靠站(暂时Android限定)</td></tr></tbody></table><h2 id="2-已知问题及解决办法"><a href="#2-已知问题及解决办法" class="headerlink" title="2. 已知问题及解决办法"></a>2. 已知问题及解决办法</h2><p><strong>2.1. 我的课程表是空白的</strong></p><blockquote><p>请尝试刷新/重新登录。如果刷新后依旧如此，请稍候再试。</p><p>另外，大一没有个人课表，课表来自班级推荐课表。有时候您的课表服务可能在信息门户上处于禁用状&gt;态（例如您没有完成教学投票，而造成了关闭），请在这种情况下核对您的信息门户。</p></blockquote><p><strong>2.2. 钱包余额不准确</strong></p><blockquote><p>钱包（一卡通）余额来自江大信息门户的首页，此网站上有延时，因此抓取新内容时可能也会有延时问&gt;题。</p></blockquote><p><strong>2.3. 我的成绩都是0</strong></p><blockquote><ol><li>新生刚入学没有自己的成绩单</li><li>请核对您的账号在信息门户中该服务是否可用</li><li>给我们留言吧! <a href="#"><del>论坛跟帖</del></a></li></ol></blockquote><h2 id="3-更多问题及建议"><a href="#3-更多问题及建议" class="headerlink" title="3. 更多问题及建议"></a>3. 更多问题及建议</h2><p>请投递至邮箱: app<a>@</a>techf5ve.com</p><p>或直接在<a href="#"><del>论坛跟帖</del></a></p><h2 id="4-鸣谢"><a href="#4-鸣谢" class="headerlink" title="4. 鸣谢"></a>4. 鸣谢</h2><p>项目由TECH F5VE的CHI发起，期间得到了成员们的支持，<br>因此感谢以下成员参与/开发。</p><hr><table><thead><tr><th align="center">策划</th><th align="center">CHI</th></tr></thead><tbody><tr><td align="center">iOS</td><td align="center">CHI</td></tr><tr><td align="center">Android</td><td align="center">FredZeng</td></tr><tr><td align="center">设计</td><td align="center">CHI, YL Lei</td></tr><tr><td align="center">信息获取</td><td align="center">fallenangel, ALKAID</td></tr></tbody></table><p>此外，</p><ol><li>特别感谢 <strong>QAQ</strong> 提议的应用名称, 江雪的名字由他提供；</li><li>特别感谢 <strong>小贼</strong> 在应用测试过程中提供的无私帮助与建议;</li><li>特别感谢 <strong>您</strong>, 愿意尝试使用它。</li></ol><h2 id="5-支持"><a href="#5-支持" class="headerlink" title="5. 支持"></a>5. 支持</h2><p>感谢<strong>江苏大学党委宣传部</strong>的支持，现在江雪的链接已经出现在江苏大学官方微信订阅号上，可以通过扫描下方的链接，获取下载途径。</p><!-- ![](http://7xngrd.com1.z0.glb.clouddn.com/ci_ujsNO_1_wechat.jpg) -->]]></content>
     
-    <summary type="html">
     
-      &lt;p&gt;(更新于2016-10-20 00:18:23)&lt;/p&gt;
+    <summary type="html">&lt;p&gt;(更新于2016-10-20 00:18:23)&lt;/p&gt;
 &lt;p&gt;江雪是针对江苏大学校园服务的工具类APP&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;&lt;del&gt;下载地址&lt;/del&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;0-使用前须知&quot;&gt;&lt;a href=&quot;#0-使用前须知&quot; class=&quot;headerlink&quot; title=&quot;0. 使用前须知&quot;&gt;&lt;/a&gt;0. 使用前须知&lt;/h2&gt;&lt;p&gt;您的密码, 课程, 成绩等个人资料保存且仅保存在本地, 该APP仅记录您的学号(用作开发者了解该APP是否需要继续维护).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;提醒：应当注意到一切信息以&lt;a href=&quot;http://my.ujs.edu.cn&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;江大信息门户&lt;/a&gt;为准，江雪只作为一个方便信息获取渠道的工具而存在。一切因为信息不准确而造成的损失等，由其自行承担，与江雪及其开发人员无关。&lt;/strong&gt;&lt;/p&gt;
-    
-    </summary>
+&lt;p&gt;&lt;strong&gt;提醒：应当注意到一切信息以&lt;a href=&quot;http://my.ujs.edu.cn/&quot;&gt;江大信息门户&lt;/a&gt;为准，江雪只作为一个方便信息获取渠道的工具而存在。一切因为信息不准确而造成的损失等，由其自行承担，与江雪及其开发人员无关。&lt;/strong&gt;&lt;/p&gt;</summary>
     
     
-      <category term="Product" scheme="https://blog.tech5ve.com/tags/Product/"/>
+    
+    
+    <category term="Product" scheme="https://blog.tech5ve.com/tags/Product/"/>
     
   </entry>
   
@@ -225,41 +239,39 @@
     <link href="https://blog.tech5ve.com/2015/09/25/2015Autumn/"/>
     <id>https://blog.tech5ve.com/2015/09/25/2015Autumn/</id>
     <published>2015-09-25T05:32:02.000Z</published>
-    <updated>2019-10-19T06:25:50.685Z</updated>
+    <updated>2020-10-15T01:34:06.796Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>注意：该信息已经过期</strong></p><hr><p>TECH F5VE (简称TF5), 是一个由学生自发组成的<strong>科技&amp;设计向组织</strong>，现向全校同学发起2015年秋季纳新活动，望能得到广大同学的积极参与。</p><h2 id="报名时间"><a href="#报名时间" class="headerlink" title="报名时间"></a>报名时间</h2><p>即日 ~ 2015年10月01日<br><a id="more"></a></p><h2 id="目标对象"><a href="#目标对象" class="headerlink" title="目标对象"></a>目标对象</h2><p>我们希望您能具备以下三种条件之一，多多益善。</p><ol><li>没有经验，但<strong>十分热爱</strong>计算机或设计；</li><li>已有相关经验，并在坚持学习着；</li><li>擅长某领域，愿意结交新朋友。</li></ol><h2 id="具体内容"><a href="#具体内容" class="headerlink" title="具体内容"></a>具体内容</h2><p>TF5分为3个组别：程序应用／艺术设计／信息安全，您可选择自己喜爱的一个或多个组别，通过邮件投递，或者投递纸质信息到<strong>江苏大学创业孵化基地4号</strong>。</p><h3 id="程序应用组"><a href="#程序应用组" class="headerlink" title="程序应用组"></a>程序应用组</h3><p>Email:  app<a>@</a>techf5ve.com</p><h3 id="信息安全组"><a href="#信息安全组" class="headerlink" title="信息安全组"></a>信息安全组</h3><p>Email:  security<a>@</a>techf5ve.com</p><h3 id="艺术设计组"><a href="#艺术设计组" class="headerlink" title="艺术设计组"></a>艺术设计组</h3><p>Email:  art<a>@</a>techf5ve.com</p><hr><p><strong>注意：该信息已经过期</strong></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>注意：该信息已经过期</strong></p><hr><p>TECH F5VE (简称TF5), 是一个由学生自发组成的<strong>科技&amp;设计向组织</strong>，现向全校同学发起2015年秋季纳新活动，望能得到广大同学的积极参与。</p><h2 id="报名时间"><a href="#报名时间" class="headerlink" title="报名时间"></a>报名时间</h2><p>即日 ~ 2015年10月01日</p><a id="more"></a><h2 id="目标对象"><a href="#目标对象" class="headerlink" title="目标对象"></a>目标对象</h2><p>我们希望您能具备以下三种条件之一，多多益善。</p><ol><li>没有经验，但<strong>十分热爱</strong>计算机或设计；</li><li>已有相关经验，并在坚持学习着；</li><li>擅长某领域，愿意结交新朋友。</li></ol><h2 id="具体内容"><a href="#具体内容" class="headerlink" title="具体内容"></a>具体内容</h2><p>TF5分为3个组别：程序应用／艺术设计／信息安全，您可选择自己喜爱的一个或多个组别，通过邮件投递，或者投递纸质信息到<strong>江苏大学创业孵化基地4号</strong>。</p><h3 id="程序应用组"><a href="#程序应用组" class="headerlink" title="程序应用组"></a>程序应用组</h3><p>Email:  app<a>@</a>techf5ve.com</p><h3 id="信息安全组"><a href="#信息安全组" class="headerlink" title="信息安全组"></a>信息安全组</h3><p>Email:  security<a>@</a>techf5ve.com</p><h3 id="艺术设计组"><a href="#艺术设计组" class="headerlink" title="艺术设计组"></a>艺术设计组</h3><p>Email:  art<a>@</a>techf5ve.com</p><hr><p><strong>注意：该信息已经过期</strong></p>]]></content>
     
-    <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;strong&gt;注意：该信息已经过期&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;TECH F5VE (简称TF5), 是一个由学生自发组成的&lt;strong&gt;科技&amp;amp;设计向组织&lt;/strong&gt;，现向全校同学发起2015年秋季纳新活动，望能得到广大同学的积极参与。&lt;/p&gt;
-&lt;h2 id=&quot;报名时间&quot;&gt;&lt;a href=&quot;#报名时间&quot; class=&quot;headerlink&quot; title=&quot;报名时间&quot;&gt;&lt;/a&gt;报名时间&lt;/h2&gt;&lt;p&gt;即日 ~ 2015年10月01日&lt;br&gt;
-    
-    </summary>
+&lt;h2 id=&quot;报名时间&quot;&gt;&lt;a href=&quot;#报名时间&quot; class=&quot;headerlink&quot; title=&quot;报名时间&quot;&gt;&lt;/a&gt;报名时间&lt;/h2&gt;&lt;p&gt;即日 ~ 2015年10月01日&lt;/p&gt;</summary>
     
     
-      <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
+    
+    
+    <category term="Recruit" scheme="https://blog.tech5ve.com/tags/Recruit/"/>
     
   </entry>
   
   <entry>
     <title>关于TECH F5VE</title>
     <link href="https://blog.tech5ve.com/2014/02/28/%E5%85%B3%E4%BA%8ETECH-F5VE/"/>
-    <id>https://blog.tech5ve.com/2014/02/28/关于TECH-F5VE/</id>
+    <id>https://blog.tech5ve.com/2014/02/28/%E5%85%B3%E4%BA%8ETECH-F5VE/</id>
     <published>2014-02-28T14:09:18.000Z</published>
-    <updated>2019-10-19T06:25:50.686Z</updated>
+    <updated>2020-10-15T01:34:06.802Z</updated>
     
-    <content type="html"><![CDATA[<p>TECH F5VE 是由<strong>一群热爱计算机技术与艺术设计的学生</strong>自主发起的，不隶属于任何组织／部门／机构的技术向组织<a id="more"></a>，其中发起人为Chi。</p><h2 id="取意"><a href="#取意" class="headerlink" title="取意"></a>取意</h2><p>TECH 取意 Technology (技术), F5VE 取自在Windows中经常使用用的刷新快捷键，总意为“技术与刷新”，意即希望我们能够虚心且不断进取。<br><!-- more --></p><h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><p>TECH F5VE的建立诱因是因当时在学校环境中未能发现非常纯粹的技术讨论圈，Chi因此异想天开尝试自己去建立一个，并非常幸运的得到了友人们的帮助（同时也是现在的伙伴们）。它旨在推动计算机技术与艺术设计，现分为 程序应用／视觉设计／信息安全 三个组别。</p><hr><p>我们因为热爱计算机／艺术设计的初衷而走一起，将来无论在哪里，也会继续下去。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;TECH F5VE 是由&lt;strong&gt;一群热爱计算机技术与艺术设计的学生&lt;/strong&gt;自主发起的，不隶属于任何组织／部门／机构的技术向组织
-    
-    </summary>
+    <content type="html"><![CDATA[<p>TECH F5VE 是由<strong>一群热爱计算机技术与艺术设计的学生</strong>自主发起的，不隶属于任何组织／部门／机构的技术向组织<a id="more"></a>，其中发起人为Chi。</p><h2 id="取意"><a href="#取意" class="headerlink" title="取意"></a>取意</h2><p>TECH 取意 Technology (技术), F5VE 取自在Windows中经常使用用的刷新快捷键，总意为“技术与刷新”，意即希望我们能够虚心且不断进取。</p><!-- more --><h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><p>TECH F5VE的建立诱因是因当时在学校环境中未能发现非常纯粹的技术讨论圈，Chi因此异想天开尝试自己去建立一个，并非常幸运的得到了友人们的帮助（同时也是现在的伙伴们）。它旨在推动计算机技术与艺术设计，现分为 程序应用／视觉设计／信息安全 三个组别。</p><hr><p>我们因为热爱计算机／艺术设计的初衷而走一起，将来无论在哪里，也会继续下去。</p>]]></content>
     
     
-      <category term="About" scheme="https://blog.tech5ve.com/tags/About/"/>
+    <summary type="html">&lt;p&gt;TECH F5VE 是由&lt;strong&gt;一群热爱计算机技术与艺术设计的学生&lt;/strong&gt;自主发起的，不隶属于任何组织／部门／机构的技术向组织</summary>
+    
+    
+    
+    
+    <category term="About" scheme="https://blog.tech5ve.com/tags/About/"/>
     
   </entry>
   
